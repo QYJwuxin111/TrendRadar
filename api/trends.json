@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T18:51:59.917805+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2026-03-11T19:39:54.534634+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "建议不允许青少年用AI做作业",
@@ -31,11 +31,12 @@
             14,
             19,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时07分 ~ 18时51分]"
+          "appearance_count": 23,
+          "time_info": "[00时07分 ~ 19时39分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -79,6 +80,22 @@
           "time_info": "[00时07分 ~ 18时51分]"
         },
         {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            10,
+            23,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 19时39分]"
+        },
+        {
           "title": "豆包限制AI成毅",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -93,19 +110,29 @@
           "time_info": "[05时35分 ~ 09时22分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            13,
-            10,
-            23,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 18时51分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 19时39分]"
+        },
+        {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时39分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -123,6 +150,19 @@
           "time_info": "[00时07分 ~ 07时35分]"
         },
         {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时05分 ~ 19时39分]"
+        },
+        {
           "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
           "url": "https://www.cls.cn/detail/2309250",
           "source": "财联社热门",
@@ -135,18 +175,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时56分 ~ 17时54分]"
-        },
-        {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 18时51分]"
         },
         {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
@@ -171,31 +199,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时35分 ~ 09时22分]"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
-        },
-        {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时05分 ~ 18时51分]"
         },
         {
           "title": "代表建议破除AI教育产品算法偏见",
@@ -272,11 +275,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时39分]"
         },
         {
           "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
@@ -301,6 +305,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时35分]"
+        },
+        {
+          "title": "Meta：宣布在先进AI领域的新投资，推出帮助用户识别和避开诈骗者的工具。 将在Facebook、Messenger和WhatsApp推出新工具，以帮助防范诈骗。",
+          "url": "https://wallstreetcn.com/livenews/3068045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
@@ -345,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "AI短剧火热，业内人士称“是接下来最大风口”，行业内90%公司仍处于亏损状态",
@@ -402,6 +428,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "引入AI不是开除员工的挡箭牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%85%A5AI%E4%B8%8D%E6%98%AF%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "OpenAI计划将AI视频生成工具Sora接入ChatGPT。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3067769",
           "source": "华尔街见闻-快讯",
@@ -430,7 +467,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -471,7 +508,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 24,
+      "match_count": 41,
       "titles": [
         {
           "title": "体验经济持续火爆",
@@ -498,6 +535,17 @@
           "time_info": "[00时07分 ~ 12时16分]"
         },
         {
+          "title": "德国经济部长：德国将释放240万吨石油。",
+          "url": "https://flash.jin10.com/detail/20260311192210175800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
           "url": "https://flash.jin10.com/detail/20260311120618830800",
           "source": "金十数据",
@@ -507,6 +555,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "德国经济部长：当前石油市场过度敏感，主要受投机驱动。因此，相关措施将对油价产生抑制作用。",
+          "url": "https://flash.jin10.com/detail/20260311192127420800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "德国经济部长：国际能源署已请求释放4亿桶石油储备。 德国将参与石油储备释放，具体细节尚待明确。 政府讨论了关于加油站油价上涨的进一步措施。 计划将汽油价格上涨限制为每日一次。 政府计划允许对加油站竞争情况进行更严格监管。 无法给出释放石油储备和油价上涨限制的具体时间。",
+          "url": "https://wallstreetcn.com/livenews/3068048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "路透调查：64位经济学家均表示，日本央行将于3月19日将基准利率维持在0.75%。",
@@ -529,6 +599,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "德国经济部长：美国和日本将成为国际能源署释放战略石油储备的最大贡献国。",
+          "url": "https://flash.jin10.com/detail/20260311191746406800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "德国经济部长：能源供应量没有短缺。 德国的天然气储备为21%。 由于霍尔木兹海峡被阻塞，石油供应受到压力。",
+          "url": "https://wallstreetcn.com/livenews/3068046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "以色列总理内塔尼亚胡：尽管战乱不断，以色列经济依然非常强劲。",
@@ -567,6 +659,39 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "德国经济部长：国际能源署计划释放的石油储备规模将为史上最大。",
+          "url": "https://flash.jin10.com/detail/20260311191734247800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "德国经济部长：无法给出释放石油储备和限制汽油价格上涨的具体时间表。",
+          "url": "https://flash.jin10.com/detail/20260311191444145800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "德国经济部长：政府计划对加油站的竞争行为实施更严格的监管。",
+          "url": "https://flash.jin10.com/detail/20260311191157991800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "欧洲央行副行长金多斯：伊朗战争对经济有负面影响，风险倾向于下行。",
           "url": "https://flash.jin10.com/detail/20260311163422553800",
           "source": "金十数据",
@@ -578,6 +703,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "德国经济部长：德国将限制加油站油价调整频率。",
+          "url": "https://flash.jin10.com/detail/20260311191128945800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "欧洲央行副行长金多斯：宏观经济预测如今将复杂得多。",
           "url": "https://flash.jin10.com/detail/20260311163408727800",
           "source": "金十数据",
@@ -587,6 +723,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "德国经济部长：内阁讨论了针对加油站油价上涨的进一步措施。",
+          "url": "https://flash.jin10.com/detail/20260311190959026800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "伊朗警告：将对美以经济目标采取报复行动",
+          "url": "https://www.cls.cn/detail/2309709",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "机构：全球经济韧性十足，此次滞胀风险远低于俄乌冲突",
@@ -611,6 +769,17 @@
           "time_info": "17时54分"
         },
         {
+          "title": "德国经济部长：德国将参与释放战略石油储备，具体细节仍有待敲定。",
+          "url": "https://flash.jin10.com/detail/20260311190927821800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "德国经济研究所DIW：预计2026年德国通胀率为2.4%，2027年为2.3%。",
           "url": "https://flash.jin10.com/detail/20260311173154415800",
           "source": "金十数据",
@@ -620,6 +789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "德国经济部长：德国将释放部分国家石油储备。",
+          "url": "https://flash.jin10.com/detail/20260311190755118800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "以色列财政部将2026年经济增长预期由5.2%下调至4.7%，并预计与伊朗和真主党的冲突“仅持续数周”。",
@@ -655,6 +835,17 @@
           "time_info": "17时54分"
         },
         {
+          "title": "德国经济部长：国际能源署呼吁各国释放4亿桶原油。",
+          "url": "https://flash.jin10.com/detail/20260311190733139800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "欧洲央行管委兼法国央行行长Villeroy：在伊朗危机期间，我们必须保持冷静。 预计法国经济增长将维持在目标水平。 伊朗冲突加剧了不确定性。 受冲突影响，预计通胀将小幅上升、经济增长有所放缓。 法国通胀将维持低位，未见滞胀风险。 能源价格在消费中占比很小。 预计欧洲央行下周会议不会加息。",
           "url": "https://wallstreetcn.com/livenews/3067842",
           "source": "华尔街见闻-快讯",
@@ -677,6 +868,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "德国经济部长：由于霍尔木兹海峡被封锁，石油供应面临紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260311190641228800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "欧洲央行行长拉加德：当前形势非常不同于2022年。 （相比2022年，当前的欧元区）通胀、能源、经济都更容易受控制。 我们消化各种冲击的能力提高了。 不确定性、波动性的程度让人非常惊讶。 波动性的程度让人难以掌控局势。 将采取必要措施来控制（欧元区的）通胀。 还无法确切表明我们会对利率作何决定。 我们不会匆忙做决定，而会分析一切因素（之后再做决定）。 不允许欧洲重演2022-23年那样的通胀。",
           "url": "https://wallstreetcn.com/livenews/3067557",
           "source": "华尔街见闻-快讯",
@@ -686,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "德国经济部长：德国天然气储备目前为21%水平。",
+          "url": "https://flash.jin10.com/detail/20260311190607530800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：预计法国经济增长仍将符合预期。",
@@ -699,13 +912,24 @@
           "time_info": "15时05分"
         },
         {
+          "title": "德国经济部长：能源供应不存在短缺。",
+          "url": "https://flash.jin10.com/detail/20260311190544538800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "英国财政大臣里夫斯：就中东冲突对英国经济增长、通胀或利率的影响进行猜测是不明智的。 冲突对英国经济肯定不是好事。 霍尔木兹海峡的问题在于船长和船员的安全，而不是保险产品。 （被问及英国是否有财政空间提供类似2022年的能源援助时）会尽力帮助消费者和维护国家安全。",
           "url": "https://wallstreetcn.com/livenews/3067987",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -981,6 +1205,20 @@
           "time_info": "07时35分"
         },
         {
+          "title": "中科院博导李新影因「非特异性呼吸衰竭」去世，年仅 48 岁，这是种什么病？哪些诱因会引发这类健康风险？",
+          "url": "https://www.zhihu.com/question/2014362924509062019",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 19时39分]"
+        },
+        {
           "title": "江汉大米重金属污染风险较高？谣言",
           "url": "https://www.toutiao.com/trending/7615242292886388790/",
           "source": "今日头条",
@@ -1000,21 +1238,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时51分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时39分]"
         },
         {
-          "title": "中科院博导李新影因「非特异性呼吸衰竭」去世，年仅 48 岁，这是种什么病？哪些诱因会引发这类健康风险？",
-          "url": "https://www.zhihu.com/question/2014362924509062019",
-          "source": "知乎",
+          "title": "“网红蝴蝶刀”暗藏风险",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BD%91%E7%BA%A2%E8%9D%B4%E8%9D%B6%E5%88%80%E2%80%9D%E6%9A%97%E8%97%8F%E9%A3%8E%E9%99%A9",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            18,
-            13
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 18时51分]"
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时39分]"
         },
         {
           "title": "越南政府援引航空管理部门的说法称，由于中东冲突，越南航空公司自4月初起可能面临航空燃油短缺的风险。",
@@ -1048,17 +1284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
-        },
-        {
-          "title": "“网红蝴蝶刀”暗藏风险",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BD%91%E7%BA%A2%E8%9D%B4%E8%9D%B6%E5%88%80%E2%80%9D%E6%9A%97%E8%97%8F%E9%A3%8E%E9%99%A9",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "南非：尚未看到伊朗战争相关的燃油供应短缺风险苗头。 预计国内燃油价格将从4月份开始上涨。",
@@ -1159,6 +1384,78 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-11）",
+          "url": "https://flash.jin10.com/detail/20260311120329501800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "中国央行：积极稳妥、安全有序推进金融领域人工智能应用，释放数字化、智能化发展动能",
+          "url": "https://wallstreetcn.com/livenews/3068039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
+          "url": "https://wallstreetcn.com/livenews/3067648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "特朗普可能在本周晚些时候下令切断与人工智能公司Anthropic的联系。",
+          "url": "https://flash.jin10.com/detail/20260311012115573800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "Meta公司：宣布对先进人工智能进行新投资，以及用于帮助人们识别和防范诈骗分子的工具。",
+          "url": "https://flash.jin10.com/detail/20260311190325537800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "韩国总统府人工智能事务高级秘书：鉴于阿联酋亟需提升国防能力，预计俄乌冲突结束后，韩阿两国在人工智能领域的合作将得以加速。",
+          "url": "https://flash.jin10.com/detail/20260311143846974800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openclaw",
       "match_count": 5,
       "titles": [
@@ -1201,8 +1498,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时05分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[15时05分 ~ 19时39分]"
         },
         {
           "title": "3月11日投资避雷针：优刻得、博睿数据等OpenClaw概念股提示风险",
@@ -1223,59 +1520,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-11）",
-          "url": "https://flash.jin10.com/detail/20260311120329501800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
-          "url": "https://wallstreetcn.com/livenews/3067648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "特朗普可能在本周晚些时候下令切断与人工智能公司Anthropic的联系。",
-          "url": "https://flash.jin10.com/detail/20260311012115573800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "韩国总统府人工智能事务高级秘书：鉴于阿联酋亟需提升国防能力，预计俄乌冲突结束后，韩阿两国在人工智能领域的合作将得以加速。",
-          "url": "https://flash.jin10.com/detail/20260311143846974800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
         }
       ]
     }
