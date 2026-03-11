@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T16:54:27.161689+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-03-11T17:54:08.720680+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "建议不允许青少年用AI做作业",
@@ -29,11 +29,12 @@
             11,
             13,
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时07分 ~ 16时54分]"
+          "appearance_count": 21,
+          "time_info": "[00时07分 ~ 17时54分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -68,11 +69,12 @@
             12,
             20,
             21,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时07分 ~ 16时54分]"
+          "appearance_count": 21,
+          "time_info": "[00时07分 ~ 17时54分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -104,6 +106,20 @@
           "time_info": "[00时07分 ~ 07时35分]"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 17时54分]"
+        },
+        {
           "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3067769",
           "source": "华尔街见闻-快讯",
@@ -113,6 +129,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            10,
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 17时54分]"
         },
         {
           "title": "AI短剧侵权肖战最高可判10年",
@@ -148,6 +179,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 17时54分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 17时54分]"
         },
         {
           "title": "OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。",
@@ -186,43 +241,26 @@
           "time_info": "[12时16分 ~ 13时56分]"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            13,
-            10,
-            23
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时16分 ~ 16时54分]"
+          "time_info": "[15时05分 ~ 17时54分]"
         },
         {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 16时54分]"
-        },
-        {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时05分 ~ 16时54分]"
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
@@ -237,17 +275,6 @@
           "time_info": "[05时36分 ~ 06时36分]"
         },
         {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 16时54分]"
-        },
-        {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3067582",
           "source": "华尔街见闻-快讯",
@@ -260,15 +287,15 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
           "ranks": [
-            8
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
         },
         {
           "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
@@ -428,7 +455,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "低空经济起飞正当时",
@@ -450,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 17时54分]"
         },
         {
           "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
@@ -499,6 +526,17 @@
           "time_info": "[03时01分 ~ 03时46分]"
         },
         {
+          "title": "涨势比原油还猛！中东战火扰乱柴油市场 或致全球经济放缓",
+          "url": "https://www.cls.cn/detail/2309360",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
           "title": "战争加剧经济担忧，SRT销售成本或将攀升",
           "url": "https://wallstreetcn.com/livenews/3067580",
           "source": "华尔街见闻-快讯",
@@ -517,7 +555,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -528,7 +566,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -544,6 +582,28 @@
           "time_info": "15时05分"
         },
         {
+          "title": "德国经济研究所DIW：预计德国2026年GDP将增长1%，2027年将增长1.4%。",
+          "url": "https://flash.jin10.com/detail/20260311173223320800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "德国经济研究所DIW：预计2026年德国通胀率为2.4%，2027年为2.3%。",
+          "url": "https://flash.jin10.com/detail/20260311173154415800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "以色列财政部将2026年经济增长预期由5.2%下调至4.7%，并预计与伊朗和真主党的冲突“仅持续数周”。",
           "url": "https://flash.jin10.com/detail/20260311052823687800",
           "source": "金十数据",
@@ -553,6 +613,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "德国经济研究所DIW：美国最高法院关于关税的裁决迄今对德国出口未产生明显影响。",
+          "url": "https://flash.jin10.com/detail/20260311173142267800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "德国经济研究所DIW：伊朗战争引发的能源价格上涨仅小幅抑制德国经济复苏势头。",
+          "url": "https://flash.jin10.com/detail/20260311173128938800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "欧洲央行管委兼法国央行行长Villeroy：在伊朗危机期间，我们必须保持冷静。 预计法国经济增长将维持在目标水平。 伊朗冲突加剧了不确定性。 受冲突影响，预计通胀将小幅上升、经济增长有所放缓。 法国通胀将维持低位，未见滞胀风险。 能源价格在消费中占比很小。 预计欧洲央行下周会议不会加息。",
@@ -605,7 +687,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -635,7 +717,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，这将为能源行业和数据中心带来哪些改变？",
@@ -675,6 +757,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时21分 ~ 15时05分]"
+        },
+        {
+          "title": "丘钛科技：2月手机摄像头模组销售数量同比增长40.2％。 2月摄像头模组销售数量同比增长40.3％。",
+          "url": "https://wallstreetcn.com/livenews/3067977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "被扼杀的F1巅峰科技去了哪",
@@ -746,6 +839,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "纳指科技ETF景顺：3月12日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3067970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "原工信部部长苗圩：让制造业成为人工智能科技创新和产业创新深度融合的主战场",
           "url": "https://wallstreetcn.com/livenews/3067646",
           "source": "华尔街见闻-快讯",
@@ -793,7 +897,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "国家互联网应急中心提示“龙虾”风险",
@@ -828,11 +932,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 17时54分]"
         },
         {
           "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
@@ -857,6 +962,17 @@
           "time_info": "[09时21分 ~ 13时56分]"
         },
         {
+          "title": "别只盯着美伊战火！安联首席“拉响警报”：三大市场风险正加剧",
+          "url": "https://www.cls.cn/detail/2309536",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 17时54分]"
+        },
+        {
           "title": "中科院博导李新影因「非特异性呼吸衰竭」去世，年仅 48 岁，这是种什么病？哪些诱因会引发这类健康风险？",
           "url": "https://www.zhihu.com/question/2014362924509062019",
           "source": "知乎",
@@ -867,6 +983,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时05分 ~ 16时54分]"
+        },
+        {
+          "title": "越南政府援引航空管理部门的说法称，由于中东冲突，越南航空公司自4月初起可能面临航空燃油短缺的风险。",
+          "url": "https://flash.jin10.com/detail/20260311173315822800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "美国宇航局NASA监察长：SpaceX“星舰”月球着陆器进度已落后两年，且预计将进一步延期。受此及蓝色起源（Blue Origin）开发延迟拖累，美国2028年登月目标面临延期风险。",
@@ -886,7 +1013,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -938,7 +1065,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -1071,6 +1198,19 @@
           "time_info": "[00时07分 ~ 09时22分]"
         },
         {
+          "title": "好用但不够用？OpenClaw令地方政府算力券再次走红 代表委员呼吁从发券转向建生态",
+          "url": "https://www.cls.cn/detail/2309379",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 17时54分]"
+        },
+        {
           "title": "3月11日投资避雷针：优刻得、博睿数据等OpenClaw概念股提示风险",
           "url": "https://www.cls.cn/detail/2309123",
           "source": "财联社热门",
@@ -1081,18 +1221,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时16分 ~ 15时05分]"
-        },
-        {
-          "title": "好用但不够用？OpenClaw令地方政府算力券再次走红 代表委员呼吁从发券转向建生态",
-          "url": "https://www.cls.cn/detail/2309379",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 16时54分]"
         }
       ]
     }
