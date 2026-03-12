@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T19:37:45.083529+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-03-12T21:18:18.166006+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "time_info": "[01时04分 ~ 07时34分]"
         },
         {
+          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
+          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "source": "知乎",
+          "ranks": [
+            12,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 21时18分]"
+        },
+        {
           "title": "沉迷AI的领导belike",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
           "source": "bilibili 热搜",
@@ -33,24 +46,27 @@
             23,
             28,
             24,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时04分 ~ 19时37分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 21时18分]"
         },
         {
-          "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
-          "url": "https://www.zhihu.com/question/2015022862625415833",
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
           "source": "知乎",
           "ranks": [
-            12,
-            2,
-            1
+            18,
+            5,
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时09分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 21时18分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -102,20 +118,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 07时34分]"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            18,
-            5,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时09分 ~ 19时37分]"
         },
         {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
@@ -204,6 +206,17 @@
           "time_info": "[06时35分 ~ 07时34分]"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时18分]"
+        },
+        {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
@@ -243,18 +256,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -265,7 +267,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -375,7 +377,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -386,7 +388,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
@@ -394,7 +396,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗警告：将对美以经济目标采取报复行动",
@@ -409,6 +411,29 @@
           "time_info": "[03时03分 ~ 06时35分]"
         },
         {
+          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
+          "url": "https://www.zhihu.com/question/2015360012143313625",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 21时18分]"
+        },
+        {
+          "title": "“十五五”经济新坐标",
+          "url": "https://www.toutiao.com/trending/7615616998454575155/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "印度尼西亚经济事务部：目前适用于印尼的关税是美国15%的临时全球关税。",
           "url": "https://flash.jin10.com/detail/20260312150158103800",
           "source": "金十数据",
@@ -418,18 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
-        },
-        {
-          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
-          "url": "https://www.zhihu.com/question/2015360012143313625",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时37分]"
         },
         {
           "title": "俄总统特别代表证实已与美方讨论经济合作",
@@ -465,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "两会经济热点快评",
+          "url": "https://www.toutiao.com/trending/7615420030129569819/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "德国IFW将2027年经济增长预期从冬季预测的1.3%上调至1.4%。",
@@ -555,6 +579,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "美国经济数据公布后，现货黄金、美元指数DXY暂时波动不大。",
+          "url": "https://flash.jin10.com/detail/20260312203103505800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "分析师：海湾冲突将加剧亚洲地区通胀和经济压力",
           "url": "https://flash.jin10.com/detail/20260312115335205800",
           "source": "金十数据",
@@ -624,7 +659,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国情报显示伊朗政府没有崩溃风险",
@@ -670,7 +705,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -681,7 +716,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -692,7 +727,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -717,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "土耳其外长：伊朗战争的影响已经显现，扩散的风险依然存在。",
+          "url": "https://flash.jin10.com/detail/20260312203352144800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "别只盯着美伊战火！安联首席“拉响警报”：三大市场风险正加剧",
@@ -758,7 +804,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -849,6 +895,19 @@
           "time_info": "10时43分"
         },
         {
+          "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
+          "url": "https://www.cls.cn/detail/2310988",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时50分 ~ 21时18分]"
+        },
+        {
           "title": "周三（3月11日），彭博电动汽车价格回报指数涨2.23%，报3666.41点，亚太早盘显著上涨，北京时间10:00以来高位窄幅震荡——10:55刷新日高至3686.03点。 成分股蔚来集团H股收涨14.05%，中创新航科技集团H股收涨8.73%，吉利汽车控股H股收涨8.21%表现第三。 在下跌的11只成分股中，雅迪集团H股收跌1.35%跌幅第四大，日本电产株式会社收跌2.54%，小马智行跌2.7%，Olectra GreenTech跌3.43%。",
           "url": "https://wallstreetcn.com/livenews/3068332",
           "source": "华尔街见闻-快讯",
@@ -859,18 +918,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时41分]"
-        },
-        {
-          "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
-          "url": "https://www.cls.cn/detail/2310988",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 19时37分]"
         },
         {
           "title": "科技秀肌肉、机器人 PK……为什么 AWE 2026 有种不顾死活的美？",
@@ -988,7 +1035,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -1008,7 +1055,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -1046,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南",
+          "url": "https://wallstreetcn.com/livenews/3068940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-12）",
@@ -1106,7 +1164,7 @@
     },
     {
       "keyword_group": "openclaw",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "财晓得｜一只虾的自我修养：4分钟看懂OpenClaw的机会和风险",
@@ -1157,6 +1215,17 @@
           "time_info": "[17时54分 ~ 18时51分]"
         },
         {
+          "title": "OpenClaw登录微信被刷走600块？不实",
+          "url": "https://www.toutiao.com/trending/7616322289780674074/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时18分]"
+        },
+        {
           "title": "九号公司支持接入OpenClaw，3月13日启动内测报名",
           "url": "https://wallstreetcn.com/livenews/3068763",
           "source": "华尔街见闻-快讯",
@@ -1168,15 +1237,15 @@
           "time_info": "16时55分"
         },
         {
-          "title": "OpenClaw登录微信被刷走600块？不实",
-          "url": "https://www.toutiao.com/trending/7616322289780674074/",
-          "source": "今日头条",
+          "title": "腾讯推出OpenClaw安全工具箱",
+          "url": "https://wallstreetcn.com/livenews/3068943",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时37分"
+          "time_info": "21时18分"
         },
         {
           "title": "全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾",
@@ -1262,6 +1331,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 openrouter 上疑似 deepseek V4 的匿名模型 Hunter Alpha ？",
+          "url": "https://www.zhihu.com/question/2015404541256959842",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     }
