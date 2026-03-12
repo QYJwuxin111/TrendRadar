@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T18:51:12.492241+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-03-12T19:37:45.083529+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -36,8 +36,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 18时51分]"
+          "appearance_count": 15,
+          "time_info": "[01时04分 ~ 19时37分]"
         },
         {
           "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时09分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[15时09分 ~ 19时37分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -104,6 +104,20 @@
           "time_info": "[01时04分 ~ 07时34分]"
         },
         {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            18,
+            5,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时09分 ~ 19时37分]"
+        },
+        {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
           "url": "https://www.cls.cn/detail/2310365",
           "source": "财联社热门",
@@ -117,18 +131,17 @@
           "time_info": "[12时54分 ~ 17时54分]"
         },
         {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
+          "url": "https://www.zhihu.com/question/2015067278698312603",
           "source": "知乎",
           "ranks": [
-            18,
-            5,
-            10,
-            9
+            11,
+            19,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时09分 ~ 18时51分]"
+          "time_info": "[16时55分 ~ 19时37分]"
         },
         {
           "title": "老板电器发布全球首款AI烹饪眼镜",
@@ -154,19 +167,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时34分 ~ 10时43分]"
-        },
-        {
-          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
-          "url": "https://www.zhihu.com/question/2015067278698312603",
-          "source": "知乎",
-          "ranks": [
-            11,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 18时51分]"
         },
         {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
@@ -235,6 +235,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "市场消息：Palantir和英伟达联手打造主权AI操作系统参考。",
+          "url": "https://flash.jin10.com/detail/20260312191021075800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "两名英伟达高管加入AI投资机构Era",
+          "url": "https://flash.jin10.com/detail/20260312190736649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
@@ -334,6 +367,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "美金融巨头为AI基建花上亿培训水电工",
+          "url": "https://www.toutiao.com/trending/7616268055123722303/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "AI演员都出片场花絮了",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E9%83%BD%E5%87%BA%E7%89%87%E5%9C%BA%E8%8A%B1%E7%B5%AE%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         }
       ]
     },
@@ -365,6 +420,18 @@
           "time_info": "15时09分"
         },
         {
+          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
+          "url": "https://www.zhihu.com/question/2015360012143313625",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 19时37分]"
+        },
+        {
           "title": "俄总统特别代表证实已与美方讨论经济合作",
           "url": "https://wallstreetcn.com/livenews/3068768",
           "source": "华尔街见闻-快讯",
@@ -375,18 +442,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时55分 ~ 17时54分]"
-        },
-        {
-          "title": "美国袭击伊朗前 6 天花超 113 亿美元，两天打掉 56 亿美元弹药，战争花费会如何影响其国内经济？",
-          "url": "https://www.zhihu.com/question/2015360012143313625",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 18时51分]"
         },
         {
           "title": "两会深观察｜智能经济新形态，到底“新”在哪里",
@@ -539,7 +594,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -564,6 +619,203 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美国情报显示伊朗政府没有崩溃风险",
+          "url": "https://news.ifeng.com/c/8rQS892T3da",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 17时54分]"
+        },
+        {
+          "title": "多家券商发布嘉美包装风险警示，午盘收跌近2%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746781",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            13,
+            14,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时54分]"
+        },
+        {
+          "title": "宝马CEO：全球仍然不稳定，本财年仍存在诸多风险。",
+          "url": "https://flash.jin10.com/detail/20260312150128795800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "标普油气ETF提示二级市场溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3068862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "德银披露对私募信贷领域有300亿美元敞口 或面临潜在间接信用风险",
+          "url": "https://wallstreetcn.com/livenews/3068861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "有银行收到监管机构“龙虾”风险提示，提示及时更新、封堵安全漏洞",
+          "url": "https://wallstreetcn.com/livenews/3068860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "三井住友银行：中东冲突加剧日本通胀上行风险",
+          "url": "https://flash.jin10.com/detail/20260312123405188800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "马来西亚央行：仍高度关注冲突延长可能带来的风险。",
+          "url": "https://flash.jin10.com/detail/20260312174325091800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "别只盯着美伊战火！安联首席“拉响警报”：三大市场风险正加剧",
+          "url": "https://www.cls.cn/detail/2309536",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "据Politico记者：Anthropic就美国国防部的供应链风险指定一事，向哥伦比亚特区巡回上诉法院提交紧急停诉申请。",
+          "url": "https://flash.jin10.com/detail/20260312121752412800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "消息人士：美国情报机构认为伊朗政府不存在崩溃风险。",
+          "url": "https://flash.jin10.com/detail/20260312070245917800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "信件显示，美国民主党参议员坎特维尔表示，得州此前的无人机事件使飞行公众面临“不可接受的安全风险”。",
+          "url": "https://flash.jin10.com/detail/20260312190255317800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "摩根士丹利：LNG供应风险对亚洲或更甚于石油",
+          "url": "https://flash.jin10.com/detail/20260312115616558800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "美国加州州长称“获悉”伊朗无人机袭击风险",
+          "url": "https://flash.jin10.com/detail/20260312034605941800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "礼来：警告将Tirzepatide与维生素B12混合可能存在患者安全风险，已将上述发现通知美国FDA。",
+          "url": "https://wallstreetcn.com/livenews/3068775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "ST华西债务逾期 退市风险持续加剧",
+          "url": "https://www.toutiao.com/trending/7615596949634498596/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "CNN：美军正在考虑出动海军给油轮护航的可行性，但风险极大！",
+          "url": "https://wallstreetcn.com/livenews/3068619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         }
       ]
     },
@@ -609,6 +861,18 @@
           "time_info": "[04时44分 ~ 05时41分]"
         },
         {
+          "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
+          "url": "https://www.cls.cn/detail/2310988",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时37分]"
+        },
+        {
           "title": "科技秀肌肉、机器人 PK……为什么 AWE 2026 有种不顾死活的美？",
           "url": "https://www.zhihu.com/topic/2002753103485695027/hot",
           "source": "知乎",
@@ -642,17 +906,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时41分]"
-        },
-        {
-          "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
-          "url": "https://www.cls.cn/detail/2310988",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "A股化工板块涨势扩大，金牛化工9天5板，潞化科技、三房巷、和邦生物、安道麦A、百川股份等多股此前涨停，金煤科技、中泰化学、新疆天业、宝丰能源等涨幅靠前。",
@@ -734,161 +987,8 @@
       ]
     },
     {
-      "keyword_group": "风险",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美国情报显示伊朗政府没有崩溃风险",
-          "url": "https://news.ifeng.com/c/8rQS892T3da",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 17时54分]"
-        },
-        {
-          "title": "多家券商发布嘉美包装风险警示，午盘收跌近2%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746781",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            13,
-            14,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 12时54分]"
-        },
-        {
-          "title": "宝马CEO：全球仍然不稳定，本财年仍存在诸多风险。",
-          "url": "https://flash.jin10.com/detail/20260312150128795800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "三井住友银行：中东冲突加剧日本通胀上行风险",
-          "url": "https://flash.jin10.com/detail/20260312123405188800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "马来西亚央行：仍高度关注冲突延长可能带来的风险。",
-          "url": "https://flash.jin10.com/detail/20260312174325091800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "别只盯着美伊战火！安联首席“拉响警报”：三大市场风险正加剧",
-          "url": "https://www.cls.cn/detail/2309536",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "据Politico记者：Anthropic就美国国防部的供应链风险指定一事，向哥伦比亚特区巡回上诉法院提交紧急停诉申请。",
-          "url": "https://flash.jin10.com/detail/20260312121752412800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "消息人士：美国情报机构认为伊朗政府不存在崩溃风险。",
-          "url": "https://flash.jin10.com/detail/20260312070245917800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "摩根士丹利：LNG供应风险对亚洲或更甚于石油",
-          "url": "https://flash.jin10.com/detail/20260312115616558800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "美国加州州长称“获悉”伊朗无人机袭击风险",
-          "url": "https://flash.jin10.com/detail/20260312034605941800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "礼来：警告将Tirzepatide与维生素B12混合可能存在患者安全风险，已将上述发现通知美国FDA。",
-          "url": "https://wallstreetcn.com/livenews/3068775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "ST华西债务逾期 退市风险持续加剧",
-          "url": "https://www.toutiao.com/trending/7615596949634498596/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "CNN：美军正在考虑出动海军给油轮护航的可行性，但风险极大！",
-          "url": "https://wallstreetcn.com/livenews/3068619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -900,6 +1000,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 07时34分]"
+        },
+        {
+          "title": "工信部就《人工智能产品服务搜索智能体能力技术要求》等83项行业标准计划项目公开征求意见。（工信部网站）",
+          "url": "https://wallstreetcn.com/livenews/3068863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "今年将加快研究人工智能等领域立法",
@@ -914,6 +1025,18 @@
           "time_info": "[17时54分 ~ 18时51分]"
         },
         {
+          "title": "真爱美家：公司关注到有关媒体在网络上流传关于公司被收购后将“变更主营业务”“被借壳”的传闻。经公司核实，公司的主营业务仍为毛毯为主的家用纺织品研发、设计、生产与销售，不涉及人工智能业务，公司主营业务未发生重大变化。控股股东亦不存在将其控制的资产在未来36个月内通过上市公司借壳上市的计划或安排。",
+          "url": "https://wallstreetcn.com/livenews/3068832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时37分]"
+        },
+        {
           "title": "今年加快研究人工智能立法",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8A%A0%E5%BF%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%8B%E6%B3%95%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -923,17 +1046,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
-        },
-        {
-          "title": "真爱美家：公司关注到有关媒体在网络上流传关于公司被收购后将“变更主营业务”“被借壳”的传闻。经公司核实，公司的主营业务仍为毛毯为主的家用纺织品研发、设计、生产与销售，不涉及人工智能业务，公司主营业务未发生重大变化。控股股东亦不存在将其控制的资产在未来36个月内通过上市公司借壳上市的计划或安排。",
-          "url": "https://wallstreetcn.com/livenews/3068832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-12）",
@@ -993,82 +1105,8 @@
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "据英国金融时报：全球会展行业的龙头企业Informa已推迟了原定在中东地区举办的近12场商业会议。",
-          "url": "https://flash.jin10.com/detail/20260312182558753800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "周三（3月11日，美国CPI通胀数据发布日），降息赢家指数跌1.08%，报89.96点，主要低位窄幅震荡。 “特朗普关税输家”指数跌1.10%，“特朗普金融指数”跌0.53%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3068333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时41分]"
-        },
-        {
-          "title": "美国参议院金融委员会主席Mike Crapo发函，要求总统特朗普在接见日本首相高市早苗时，让美国土豆“获得优先市场准入”。",
-          "url": "https://wallstreetcn.com/livenews/3068330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时41分]"
-        },
-        {
-          "title": "券商密集路演OpenClaw，场场火热，将如何影响金融投研？",
-          "url": "https://www.cls.cn/detail/2310560",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 18时51分]"
-        },
-        {
-          "title": "马来西亚央行：国内金融市场在全球市场波动背景下仍保持相对韧性。",
-          "url": "https://flash.jin10.com/detail/20260312174142223800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "湖南省副省长王俊寿：风险化解进入存量出清，金融创新赋能“三车两员”",
-          "url": "https://wallstreetcn.com/livenews/3068626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openclaw",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "财晓得｜一只虾的自我修养：4分钟看懂OpenClaw的机会和风险",
@@ -1130,11 +1168,96 @@
           "time_info": "16时55分"
         },
         {
+          "title": "OpenClaw登录微信被刷走600块？不实",
+          "url": "https://www.toutiao.com/trending/7616322289780674074/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "全球首款手机龙虾秒光！OpenClaw创始人称愿与百度共同开发龙虾",
           "url": "https://wallstreetcn.com/livenews/3068631",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据英国金融时报：全球会展行业的龙头企业Informa已推迟了原定在中东地区举办的近12场商业会议。",
+          "url": "https://flash.jin10.com/detail/20260312182558753800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "周三（3月11日，美国CPI通胀数据发布日），降息赢家指数跌1.08%，报89.96点，主要低位窄幅震荡。 “特朗普关税输家”指数跌1.10%，“特朗普金融指数”跌0.53%。 散户抱团概念股指数/迷因股（meme stock）指数涨0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3068333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时41分]"
+        },
+        {
+          "title": "美国参议院金融委员会主席Mike Crapo发函，要求总统特朗普在接见日本首相高市早苗时，让美国土豆“获得优先市场准入”。",
+          "url": "https://wallstreetcn.com/livenews/3068330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时41分]"
+        },
+        {
+          "title": "券商密集路演OpenClaw，场场火热，将如何影响金融投研？",
+          "url": "https://www.cls.cn/detail/2310560",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时37分]"
+        },
+        {
+          "title": "马来西亚央行：国内金融市场在全球市场波动背景下仍保持相对韧性。",
+          "url": "https://flash.jin10.com/detail/20260312174142223800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "湖南省副省长王俊寿：风险化解进入存量出清，金融创新赋能“三车两员”",
+          "url": "https://wallstreetcn.com/livenews/3068626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
