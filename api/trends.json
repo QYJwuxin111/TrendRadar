@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:50:38.180412+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-03-13T18:47:57.698735+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
@@ -75,11 +75,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时50分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时47分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -173,8 +174,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时50分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时47分]"
         },
         {
           "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
@@ -318,7 +319,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -337,8 +338,20 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
+          "url": "https://www.cls.cn/detail/2311899",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时47分]"
+        },
         {
           "title": "读懂中国经济的长远考量",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%95%BF%E8%BF%9C%E8%80%83%E9%87%8F%23&t=31&band_rank=3&Refer=top",
@@ -349,18 +362,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 01时55分]"
-        },
-        {
-          "title": "美方以“产能过剩”为由对包括中国在内的16个经济体发起301调查，商务部回应",
-          "url": "https://www.cls.cn/detail/2311899",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时50分]"
         },
         {
           "title": "印度财政部长：拟设立经济稳定基金，提供财政空间，使印度能够应对包括近期危机在内的全球逆风。",
@@ -394,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
-        },
-        {
-          "title": "德国经济部长：释放储备并未产生预期效果，因为对船只的袭击仍在继续。",
-          "url": "https://wallstreetcn.com/livenews/3069613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时50分"
         },
         {
           "title": "美国财长贝森特声称：伊朗冲突过后，美国（经济）增速将达到3%。",
@@ -442,6 +432,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时04分]"
+        },
+        {
+          "title": "德国经济部长：释放储备并未产生预期效果，因为对船只的袭击仍在继续。",
+          "url": "https://wallstreetcn.com/livenews/3069613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时50分 ~ 18时47分]"
         },
         {
           "title": "拉夫罗夫与古巴外长通电话 重申俄方反对美对古经济政治施压",
@@ -483,7 +485,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -609,6 +611,17 @@
           "time_info": "16时53分"
         },
         {
+          "title": "中办、国办：支持革命老区积极发展有机农业、特色养殖和林下经济等",
+          "url": "https://wallstreetcn.com/livenews/3069631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "东盟经济部长：对中东持续紧张局势表示深切关注。",
           "url": "https://flash.jin10.com/detail/20260313161931683800",
           "source": "金十数据",
@@ -645,7 +658,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
@@ -659,6 +672,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时08分 ~ 07时36分]"
+        },
+        {
+          "title": "2026开年科技创新亮点频现",
+          "url": "https://www.douyin.com/hot/2429567",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
@@ -741,6 +765,17 @@
           "time_info": "16时53分"
         },
         {
+          "title": "【数据看盘】“北向+机构+游资” 集体出逃光迅科技，量化资金、一线游资联手抢筹化工人气股",
+          "url": "https://www.cls.cn/detail/2312301",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "恒生科技指数日内跌1%。华虹半导体跌超6%，地平线机器人跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3069292",
           "source": "华尔街见闻-快讯",
@@ -750,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "沪硅产业：控股子公司新傲科技、新傲芯翼拟与SOITEC S.A.签订许可协议，SOITEC S.A.继续授予公司控股子公司新傲科技和新傲芯翼的SOI相关许可。",
+          "url": "https://wallstreetcn.com/livenews/3069647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.03%，报7094.61点。 热门中概股里，小马智行初步收跌4.6%，理想、腾讯跌超2%，阿里跌1.5%，拼多多跌1.3%，蔚来涨1.2%，小鹏涨3.6%，房多多涨14.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.77%，中概互联网指数ETF（KWEB）收跌1.41%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.97%。",
@@ -835,7 +881,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -865,7 +911,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "近期多部门发布提示「养龙虾」安全提示，新技术与风险该如何平衡？",
@@ -893,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "上交所：本周对中韩半导体ETF等溢价较高的基金，以及*ST熊猫、*ST正平等异常波动退市风险警示股票进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3069661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "欧盟方面称，在交流过程中，欧盟各国确认目前并未观察到任何供应安全风险。",
@@ -975,8 +1032,19 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "证监会：密切跟踪国际金融市场和内外部环境变化，强化境内外、期现货市场联动监测监管",
+          "url": "https://wallstreetcn.com/livenews/3069659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
         {
           "title": "美国财长贝森特告诉英国天空新闻：认为与英国的的关系将重返正轨。 英美两国首脑的关系将重返正轨。 英美两国有一个伟大的历史关系。 （被问及与美国和以色列袭击伊朗相关的长期金融成本）不足为虑。 （关于俄罗斯从出口石油给印度获得的好处）希望那只是微不足道的利益。",
           "url": "https://wallstreetcn.com/livenews/3069167",
@@ -1009,7 +1077,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
