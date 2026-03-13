@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T16:53:01.712910+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-03-13T17:50:38.180412+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -35,6 +35,17 @@
           "time_info": "[00时08分 ~ 07时36分]"
         },
         {
+          "title": "未来乡村会比AI生成的还漂亮",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 17时50分]"
+        },
+        {
           "title": "AWE2026探展来了！大厂押注“物理AI” 大模型融入传统家电",
           "url": "https://www.cls.cn/detail/2311468",
           "source": "财联社热门",
@@ -59,26 +70,16 @@
           "time_info": "[00时08分 ~ 03时04分]"
         },
         {
-          "title": "未来乡村会比AI生成的还漂亮",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 16时53分]"
-        },
-        {
           "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
           "url": "https://www.zhihu.com/question/2012836051480178728",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 17时50分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -91,8 +92,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 16时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 17时50分]"
         },
         {
           "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
@@ -165,6 +166,17 @@
           "time_info": "[06时35分 ~ 07时36分]"
         },
         {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 17时50分]"
+        },
+        {
           "title": "Baillie Gifford重仓中国AI赛道 MiniMax成新宠",
           "url": "https://wallstreetcn.com/livenews/3069370",
           "source": "华尔街见闻-快讯",
@@ -186,17 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 10时40分]"
-        },
-        {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "中腰部演员将被AI替代",
@@ -311,6 +312,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "人民锐评：不会用AI就是“新寒门”？莫将AI变成新的“起跑线焦虑”",
+          "url": "https://wallstreetcn.com/livenews/3069582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
           "url": "https://flash.jin10.com/detail/20260313020547080800",
           "source": "金十数据",
@@ -325,7 +337,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "读懂中国经济的长远考量",
@@ -343,11 +355,12 @@
           "url": "https://www.cls.cn/detail/2311899",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 17时50分]"
         },
         {
           "title": "印度财政部长：拟设立经济稳定基金，提供财政空间，使印度能够应对包括近期危机在内的全球逆风。",
@@ -356,7 +369,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -381,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "德国经济部长：释放储备并未产生预期效果，因为对船只的袭击仍在继续。",
+          "url": "https://wallstreetcn.com/livenews/3069613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "美国财长贝森特声称：伊朗冲突过后，美国（经济）增速将达到3%。",
@@ -437,7 +461,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -448,9 +472,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "经济学家：能源冲击下英国经济动能趋弱 企业或削减投资",
+          "url": "https://flash.jin10.com/detail/20260313170233547800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "菲律宾贸易部长：地缘政治紧张局势不再只是耸人听闻的头条新闻，它们已经演变成经济冲击了。",
@@ -470,7 +505,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -481,7 +516,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -503,7 +538,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -547,7 +582,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -569,7 +604,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -580,7 +615,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -610,7 +645,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
@@ -701,7 +736,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -794,13 +829,24 @@
           "time_info": "10时40分"
         },
         {
+          "title": "AWE里的中国科技惊艳外国观众",
+          "url": "https://www.douyin.com/hot/2429283",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "港股收盘：恒生指数收跌0.98%，恒生科技指数收跌0.99%。百度涨1.5%，阿里巴巴涨0.7%，老铺黄金跌近4%，安踏体育跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3069542",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -844,7 +890,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -855,7 +901,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -929,7 +975,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国财长贝森特告诉英国天空新闻：认为与英国的的关系将重返正轨。 英美两国首脑的关系将重返正轨。 英美两国有一个伟大的历史关系。 （被问及与美国和以色列袭击伊朗相关的长期金融成本）不足为虑。 （关于俄罗斯从出口石油给印度获得的好处）希望那只是微不足道的利益。",
@@ -955,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时35分]"
+        },
+        {
+          "title": "国家金融监督管理总局机构恢复与处置司原一级巡视员刘炜被开除党籍、开除公职。",
+          "url": "https://wallstreetcn.com/livenews/3069604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数大致持平，报376.20点。 在十个板块中，北欧金融板块跌幅最大。 Svenska Handelsbanken AB跌2.4%，在一众北欧个股里表现最差。",
@@ -985,7 +1042,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
