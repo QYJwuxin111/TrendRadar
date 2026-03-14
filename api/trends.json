@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T05:34:01.600243+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-03-15T06:35:07.320545+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -27,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -38,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -49,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -80,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         },
         {
           "title": "中国经济怎么看",
@@ -91,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         },
         {
           "title": "两会受权发布｜关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告。（新华社）",
@@ -102,8 +103,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时35分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：如果伊朗失去对哈尔克岛石油基础设施的控制权或运营能力，其经济将被摧毁。谁控制了哈尔克岛，谁就掌控了这场战争的走向。",
@@ -130,8 +131,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         }
       ]
     },
@@ -147,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         }
       ]
     },
@@ -164,8 +165,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时35分]"
         }
       ]
     }
