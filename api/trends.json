@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T06:35:07.320545+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-03-15T07:36:38.716733+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -28,19 +28,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
           "url": "https://wallstreetcn.com/articles/3767512",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -50,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 03时34分]"
+        },
+        {
+          "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
+          "url": "https://wallstreetcn.com/articles/3767515",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         }
       ]
     },
@@ -78,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2312691",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         },
         {
           "title": "中国经济怎么看",
@@ -92,8 +105,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         },
         {
           "title": "两会受权发布｜关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告。（新华社）",
@@ -103,8 +116,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时36分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：如果伊朗失去对哈尔克岛石油基础设施的控制权或运营能力，其经济将被摧毁。谁控制了哈尔克岛，谁就掌控了这场战争的走向。",
@@ -128,11 +141,12 @@
           "url": "https://wallstreetcn.com/articles/3767500",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         }
       ]
     },
@@ -148,8 +162,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         }
       ]
     },
@@ -162,11 +176,12 @@
           "url": "https://www.cls.cn/detail/2312977",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时36分]"
         }
       ]
     }
