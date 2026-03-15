@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:09:12.715896+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-03-15T16:48:59.873210+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 15时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 16时48分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -52,11 +52,12 @@
             12,
             15,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 15时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 16时48分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -64,11 +65,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时09分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时48分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -97,6 +99,17 @@
           "time_info": "[00时41分 ~ 03时34分]"
         },
         {
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 16时48分]"
+        },
+        {
           "title": "AI时代家长如何教育孩子",
           "url": "https://www.toutiao.com/trending/7616957895850246154/",
           "source": "今日头条",
@@ -119,17 +132,6 @@
           "time_info": "[15时08分 ~ 15时09分]"
         },
         {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
-        },
-        {
           "title": "xAI核心团队跑光 马斯克致歉",
           "url": "https://www.toutiao.com/trending/7617270651551747634/",
           "source": "今日头条",
@@ -143,86 +145,8 @@
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
-          "url": "https://www.cls.cn/detail/2312864",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 15时09分]"
-        },
-        {
-          "title": "央视「3·15」晚会主题发布，将关注食品安全、公共安全、金融安全、广告市场等领域，哪些看点值得关注？",
-          "url": "https://www.zhihu.com/question/2016099547433161361",
-          "source": "知乎",
-          "ranks": [
-            14,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 15时09分]"
-        },
-        {
-          "title": "中国互联网金融协会发布《关于OpenClaw在互联网金融行业应用安全的风险提示》",
-          "url": "https://wallstreetcn.com/livenews/3070226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "据英国金融时报：外交官们表示，油价上涨、美国制裁暂停以及基辅所需的美国弹药迅速消耗，使俄罗斯从中受益。",
-          "url": "https://flash.jin10.com/detail/20260315133041266800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 15时09分]"
-        },
-        {
-          "title": "据英国金融时报：四位参与乌克兰会谈的欧盟外交官称，中东冲突已转移了华盛顿对和平协议的注意力。",
-          "url": "https://flash.jin10.com/detail/20260315132948560800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 15时09分]"
-        },
-        {
-          "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
-          "url": "https://flash.jin10.com/detail/20260315102410675800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
@@ -271,6 +195,39 @@
           "time_info": "[11时17分 ~ 13时40分]"
         },
         {
+          "title": "《求是》杂志发表习近平总书记重要文章《推动海洋经济高质量发展》",
+          "url": "https://wallstreetcn.com/livenews/3070232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：日本企业正探索所有替代燃料方案，政府也将全力支持。",
+          "url": "https://flash.jin10.com/detail/20260315155123876800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：在决定是否购买俄罗斯原油时，将综合考虑乌克兰实现和平及日本国家利益等因素。",
+          "url": "https://flash.jin10.com/detail/20260315154938957800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：如果伊朗失去对哈尔克岛石油基础设施的控制权或运营能力，其经济将被摧毁。谁控制了哈尔克岛，谁就掌控了这场战争的走向。",
           "url": "https://flash.jin10.com/detail/20260314232530491800",
           "source": "金十数据",
@@ -280,6 +237,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
+          "url": "https://www.cls.cn/detail/2312864",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 16时48分]"
+        },
+        {
+          "title": "央视「3·15」晚会主题发布，将关注食品安全、公共安全、金融安全、广告市场等领域，哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2016099547433161361",
+          "source": "知乎",
+          "ranks": [
+            14,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 16时48分]"
+        },
+        {
+          "title": "据英国金融时报：外交官们表示，油价上涨、美国制裁暂停以及基辅所需的美国弹药迅速消耗，使俄罗斯从中受益。",
+          "url": "https://flash.jin10.com/detail/20260315133041266800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时09分]"
+        },
+        {
+          "title": "据英国金融时报：四位参与乌克兰会谈的欧盟外交官称，中东冲突已转移了华盛顿对和平协议的注意力。",
+          "url": "https://flash.jin10.com/detail/20260315132948560800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时09分]"
+        },
+        {
+          "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
+          "url": "https://flash.jin10.com/detail/20260315102410675800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 13时40分]"
+        },
+        {
+          "title": "中国互联网金融协会发布《关于OpenClaw在互联网金融行业应用安全的风险提示》",
+          "url": "https://wallstreetcn.com/livenews/3070226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 16时48分]"
         }
       ]
     },
@@ -297,8 +333,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 15时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 16时48分]"
         },
         {
           "title": "美国国务院：因安全风险，已要求美国驻阿曼的非紧急雇员及家属撤离。",
@@ -326,8 +362,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时40分 ~ 15时09分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时48分]"
         }
       ]
     },
