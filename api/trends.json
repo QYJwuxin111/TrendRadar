@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T11:19:20.079255+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-03-16T13:53:42.908116+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 11时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 13时53分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -38,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 11时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 13时53分]"
         },
         {
           "title": "给AI投毒",
@@ -123,11 +124,12 @@
             16,
             25,
             29,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 07时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 13时53分]"
         },
         {
           "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
@@ -155,6 +157,29 @@
           "time_info": "[00时41分 ~ 02时52分]"
         },
         {
+          "title": "花几百万给 AI「投毒」霸榜，算不算不正当竞争？告 GEO 服务商，还是告 AI 平台？证据怎么留？",
+          "url": "https://www.zhihu.com/question/2016654866450178383",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
+          "url": "https://www.cls.cn/detail/2313556",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 13时53分]"
+        },
+        {
           "title": "315晚会曝光AI大模型被投毒",
           "url": "https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8A%95%E6%AF%92%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -180,6 +205,18 @@
           "time_info": "[04时38分 ~ 07时37分]"
         },
         {
+          "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名，这种行为的套路危害会有多大？",
+          "url": "https://www.zhihu.com/question/2016626718161465398",
+          "source": "知乎",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 13时53分]"
+        },
+        {
           "title": "专家：AI大模型投毒是新型不正当竞争",
           "url": "https://wallstreetcn.com/livenews/3070365",
           "source": "华尔街见闻-快讯",
@@ -190,28 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时36分]"
-        },
-        {
-          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
-          "url": "https://www.cls.cn/detail/2313556",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名，这种行为的套路危害会有多大？",
-          "url": "https://www.zhihu.com/question/2016626718161465398",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
@@ -225,6 +240,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
+          "url": "https://wallstreetcn.com/livenews/3070595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "记者AWE2026现场观察：消费级机器人、AI芯片原生、环境智能体崛起",
           "url": "https://www.cls.cn/detail/2313138",
           "source": "财联社热门",
@@ -234,6 +260,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "阿里巴巴据悉计划推出面向企业，基于千问模型的AI智能体。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3070581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "如何看待印度AI峰会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%B0%E5%BA%A6AI%E5%B3%B0%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
@@ -250,7 +298,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "《求是》杂志发表习近平总书记重要文章《推动海洋经济高质量发展》",
@@ -266,6 +314,18 @@
           "time_info": "[00时41分 ~ 07时37分]"
         },
         {
+          "title": "商务部新闻发言人就美贸易代表办公室宣布以“未禁止进口强迫劳动产品”为由对包括中国在内的60个经济体发起301调查答记者问",
+          "url": "https://www.cls.cn/detail/2313513",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 13时53分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：美国可以上线“许多、许多的能源”。",
           "url": "https://wallstreetcn.com/livenews/3070384",
           "source": "华尔街见闻-快讯",
@@ -278,17 +338,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 05时36分]"
-        },
-        {
-          "title": "商务部新闻发言人就美贸易代表办公室宣布以“未禁止进口强迫劳动产品”为由对包括中国在内的60个经济体发起301调查答记者问",
-          "url": "https://www.cls.cn/detail/2313513",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "商务部新闻发言人就美贸易代表办公室宣布以“未禁止进口强迫劳动产品”为由对包括中国在内的60个经济体发起301调查答记者问。",
@@ -337,21 +386,43 @@
           "time_info": "07时37分"
         },
         {
+          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "提醒：北京时间10:00将公布中国1-2月规模以上工业增加值、社会消费品零售总额、城镇固定资产投资、房地产开发投资等月度经济数据。",
           "url": "https://wallstreetcn.com/livenews/3070513",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "3月16日午间收评：沪指半日跌0.71%，存储芯片、海洋经济概念逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3070567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年03月16日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -360,7 +431,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -374,6 +445,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "A股绿电概念持续调整，中国核建、中国电建双双跌停，大唐发电、中国能建、嘉泽新能、晶科科技、建投能源、节能风电等多股跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3070615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "A股港口航运板块午后拉升，招商南油直线涨停，海航科技此前封板，招商轮船、中远海能、招商港口跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3070600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "西梅汁通便真相:全是科技活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351844&amp;topic_name=%E8%A5%BF%E6%A2%85%E6%B1%81%E9%80%9A%E4%BE%BF%E7%9C%9F%E7%9B%B8%3A%E5%85%A8%E6%98%AF%E7%A7%91%E6%8A%80%E6%B4%BB",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "超七成百亿级私募满仓，科技与周期“两手抓”",
@@ -393,9 +497,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "恒生科技指数涨超2%，恒指涨超1%。比亚迪股份涨超6%，蔚来涨超5%，京东健康、小米集团、华虹半导体等涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3070573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——超级央行周来袭，美日英欧瑞加央行决议轮番“炸场”；阿里、腾讯等多家科技公司财报将公布",
@@ -415,7 +530,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
@@ -432,9 +547,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "伊朗无人机袭击迪拜、巴林花旗银行分行，美方曾打击伊银行，双方互袭金融机构，对全球金融市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2016300383673283698",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 13时53分]"
         },
         {
           "title": "据英国金融时报：特朗普还警告称，美国准备对伊朗石油出口枢纽哈尔克岛发动新的打击，并可能瞄准其石油基础设施。",
@@ -457,17 +583,66 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
+          "url": "https://wallstreetcn.com/livenews/3070402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时52分 ~ 06时37分]"
         },
         {
-          "title": "伊朗无人机袭击迪拜、巴林花旗银行分行，美方曾打击伊银行，双方互袭金融机构，对全球金融市场有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2016300383673283698",
-          "source": "知乎",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-16）",
+          "url": "https://flash.jin10.com/detail/20260316120957186800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openclaw",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.cls.cn/detail/2313186",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时37分]"
+        },
+        {
+          "title": "香港要求不要在政府电脑上使用OpenClaw",
+          "url": "https://wallstreetcn.com/livenews/3070589",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "13时53分"
         }
       ]
     },
@@ -493,47 +668,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
-          "url": "https://wallstreetcn.com/livenews/3070402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 06时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openclaw",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://www.cls.cn/detail/2313186",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 07时37分]"
         }
       ]
     }
