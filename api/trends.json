@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T15:42:29.300422+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-03-16T17:07:12.594267+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 15时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 17时07分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -40,11 +40,12 @@
             3,
             17,
             28,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 15时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 17时07分]"
         },
         {
           "title": "给AI投毒",
@@ -103,8 +104,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 15时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 17时07分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -132,6 +133,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 07时37分]"
+        },
+        {
+          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
+          "url": "https://www.cls.cn/detail/2313556",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 17时07分]"
         },
         {
           "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
@@ -170,19 +185,6 @@
           "time_info": "13时53分"
         },
         {
-          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
-          "url": "https://www.cls.cn/detail/2313556",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 15时42分]"
-        },
-        {
           "title": "315晚会曝光AI大模型被投毒",
           "url": "https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8A%95%E6%AF%92%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -194,6 +196,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时35分 ~ 05时36分]"
+        },
+        {
+          "title": "“AI届春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
+          "url": "https://www.cls.cn/detail/2313854",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时07分]"
         },
         {
           "title": "AI时代家长如何教育孩子",
@@ -245,17 +259,6 @@
           "time_info": "[13时53分 ~ 15时42分]"
         },
         {
-          "title": "“AI届春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
-          "url": "https://www.cls.cn/detail/2313854",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
           "url": "https://wallstreetcn.com/articles/3767539",
           "source": "华尔街见闻",
@@ -295,7 +298,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -325,7 +328,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金十图示：2026年03月16日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -369,8 +372,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 17时07分]"
+        },
+        {
+          "title": "如何评价大空头 Michael Burry 看好恒生科技？",
+          "url": "https://www.zhihu.com/question/2015560351240974625",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时07分]"
         },
         {
           "title": "鸿海科技：人工智能服务器将持续保持强劲增长。",
@@ -379,7 +393,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -390,7 +404,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -428,24 +442,13 @@
           "time_info": "11时19分"
         },
         {
-          "title": "如何评价大空头 Michael Burry 看好恒生科技？",
-          "url": "https://www.zhihu.com/question/2015560351240974625",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
           "title": "加拿大皇家银行：将美光科技(MU.O)目标价从425美元上调至525美元。",
           "url": "https://flash.jin10.com/detail/20260316145046494800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -481,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "美光科技美股盘前涨3.8%，此前加拿大皇家银行将其目标价从425美元上调至525美元。",
+          "url": "https://wallstreetcn.com/livenews/3070742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         }
       ]
     },
@@ -557,11 +571,24 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 17时07分]"
+        },
+        {
+          "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016789382670075625",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时07分]"
         },
         {
           "title": "美国中央司令部：伊朗部队已向其邻国发射了数千架无人机和导弹，无差别地攻击民用酒店、商业机场、居民社区和经济基础设施。",
@@ -585,17 +612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016789382670075625",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
         },
         {
           "title": "提醒：北京时间10:00将公布中国1-2月规模以上工业增加值、社会消费品零售总额、城镇固定资产投资、房地产开发投资等月度经济数据。",
@@ -623,8 +639,19 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "国家金融监督管理总局印发《理财公司监管评级暂行办法》",
+          "url": "https://wallstreetcn.com/livenews/3070781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
         {
           "title": "个贷息费乱象迎严监管！金融监管总局、央行两部门发文：息费全面透明化 对机构、借款人有何实质影响？",
           "url": "https://www.cls.cn/detail/2313393",
@@ -645,8 +672,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 15时42分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 17时07分]"
         },
         {
           "title": "据英国金融时报：特朗普还警告称，美国准备对伊朗石油出口枢纽哈尔克岛发动新的打击，并可能瞄准其石油基础设施。",
@@ -674,7 +701,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
@@ -688,6 +715,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时52分 ~ 06时37分]"
+        },
+        {
+          "title": "据网信上海消息，截至3月16日，上海市新增1款已完成备案的生成式人工智能服务，累计已完成150款生成式人工智能服务备案。",
+          "url": "https://wallstreetcn.com/livenews/3070772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-16）",
