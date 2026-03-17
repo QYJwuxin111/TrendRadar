@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:50:54.310729+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-03-18T05:47:22.167277+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -52,19 +52,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
           "url": "https://www.cls.cn/detail/2315814",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -75,8 +76,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
+        },
+        {
+          "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
+          "url": "https://flash.jin10.com/detail/20260318052306073800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -112,15 +124,37 @@
           "time_info": "03时14分"
         },
         {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
           "url": "https://wallstreetcn.com/livenews/3071875",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
+          "url": "https://flash.jin10.com/detail/20260318044954930800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "德国央行行长：AI创造的就业有望多于被取缔的岗位",
@@ -151,7 +185,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -191,8 +225,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
         },
         {
           "title": "油价再度暴涨对各国经济有何影响",
@@ -215,8 +249,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
         },
         {
           "title": "“龙虾”只是Token经济的前菜",
@@ -227,8 +261,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
         },
         {
           "title": "美国国务卿鲁比奥：目前的古巴政府无法解决国家疲软的经济，需要新的人来负责以进行修复。",
@@ -259,6 +293,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "【焦点复盘】大金融护盘提振有限，沪指时隔1年多再现日线4连阴，短线资金逆势抱团次新股",
+          "url": "https://www.cls.cn/detail/2315591",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
+        },
+        {
           "title": "欧盟将在复活节过后推迟提高银行资本要求。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3071816",
           "source": "华尔街见闻-快讯",
@@ -270,17 +316,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "【焦点复盘】大金融护盘提振有限，沪指时隔1年多再现日线4连阴，短线资金逆势抱团次新股",
-          "url": "https://www.cls.cn/detail/2315591",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
-        },
-        {
           "title": "《求是》杂志发表了特约评论员文章明确，房地产带有「显著的金融资产属性」，您怎么看？",
           "url": "https://www.zhihu.com/question/2017023184143139256",
           "source": "知乎",
@@ -289,8 +324,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 04时50分]"
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 05时47分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.4%，报378点。 在十个板块中，北欧金融板块涨幅最大。 Neste Oyj涨5.9%，在一众北欧个股里领跑。",
@@ -339,19 +374,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
         },
         {
           "title": "标普500指数的11个板块中，能源板块收涨1.02%，可选消费板块涨1%，电信板块涨0.67%，信息技术/科技板块涨0.21%，保健板块跌0.92%。",
           "url": "https://wallstreetcn.com/livenews/3071893",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时47分]"
         }
       ]
     },
@@ -385,7 +421,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苏宁创始人张近东 2387 亿债务落定，个人资产全部清零，这背后反映了哪些商业逻辑与风险？",
@@ -394,11 +430,23 @@
           "ranks": [
             12,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 05时47分]"
+        },
+        {
+          "title": "标普全球：将伊拉克评级列入负面信用观察名单，反映出其因中东冲突升级导致石油产量大幅下降而面临被下调评级的风险。伊拉克石油生产长期中断将在2026年前对该国财政和外部状况造成压力。",
+          "url": "https://flash.jin10.com/detail/20260318050915720800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         }
       ]
     }
