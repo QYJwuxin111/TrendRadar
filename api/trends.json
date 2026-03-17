@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T10:43:00.181692+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-03-17T12:59:15.700940+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时15分 ~ 10时43分]"
+          "appearance_count": 10,
+          "time_info": "[05时15分 ~ 12时59分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -38,11 +38,12 @@
           "ranks": [
             26,
             23,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时11分 ~ 10时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时11分 ~ 12时59分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -101,6 +102,17 @@
           "time_info": "[01时11分 ~ 05时50分]"
         },
         {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
           "url": "https://flash.jin10.com/detail/20260317030428527800",
           "source": "金十数据",
@@ -145,6 +157,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 06时42分]"
+        },
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 12时59分]"
         },
         {
           "title": "Salesforce与英伟达就AI智能体（AI Agents）合作。",
@@ -206,17 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时38分 ~ 10时43分]"
-        },
-        {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
         },
         {
           "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
@@ -291,6 +304,17 @@
           "time_info": "[05时16分 ~ 05时50分]"
         },
         {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "亚马逊、英伟达围绕车用高级AI助理合作。",
           "url": "https://wallstreetcn.com/livenews/3071154",
           "source": "华尔街见闻-快讯",
@@ -314,6 +338,17 @@
           "time_info": "[05时15分 ~ 05时16分]"
         },
         {
+          "title": "AI 替代岗位",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%9B%BF%E4%BB%A3%E5%B2%97%E4%BD%8D&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "三星电子在英伟达GTC大会上展示了采用三星4纳米代工工艺制造的英伟达新一代AI推理处理器。",
           "url": "https://flash.jin10.com/detail/20260317060618810800",
           "source": "金十数据",
@@ -323,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "阿里给员工发Token，鼓励使用AI工具工作",
+          "url": "https://flash.jin10.com/detail/20260317122725266800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "马斯克的xAI聘请信贷专家和银行家来提升Grok的金融策略能力",
@@ -479,6 +525,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850485&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CA_npreZkiWZtt1j4Xbc5.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260317120118876800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "美光科技执行副总裁兼首席商务官Sumit Sadana：AI的下一个时代将由通过全生态系统联合工程创新开发的紧密集成平台来定义。我们与英伟达的紧密合作确保了计算与内存从研发第一天起就能同步扩展。 美光的HBM4是这一切的核心，它是AI的引擎，提供了前所未有的带宽、容量和能效。 随着HBM4 36GB 12H，以及业界首款SOCAMM2和Gen6 SSD的量产，美光的内存与存储构成了释放下一代AI全部潜力的核心基石。",
           "url": "https://wallstreetcn.com/livenews/3071192",
           "source": "华尔街见闻-快讯",
@@ -545,11 +602,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时11分 ~ 10时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时11分 ~ 12时59分]"
         },
         {
           "title": "【焦点复盘】科技成长赛道强势做多，沪指60日线失而复得，绿电概念现深幅回调",
@@ -616,7 +674,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -638,7 +696,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -649,7 +707,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -660,7 +718,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -704,7 +762,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -715,9 +773,116 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 07时38分]"
+        },
+        {
+          "title": "经济学家：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
+          "url": "https://www.cls.cn/detail/2314398",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 07时38分]"
+        },
+        {
+          "title": "1-2月份主要经济指标明显回升",
+          "url": "https://www.douyin.com/hot/2433524",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "韩国外交部：美国国务卿鲁比奥表示，对于全球经济和稳定油价而言，各国之间的合作比以往任何时候都更加重要。",
+          "url": "https://flash.jin10.com/detail/20260317053041421800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时50分 ~ 06时42分]"
+        },
+        {
+          "title": "人民日报：从“苹果税”下调看反垄断护航数字经济",
+          "url": "https://wallstreetcn.com/livenews/3071222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：通胀上行的风险大于就业下行的风险。 不希望看到经济衰退或失业率大幅上升。 我理解对于有房贷的人来说，这(指加息)是一个艰难的消息。 如果我们不把过剩需求降下来，企业就会将其计入成本和价格之中。 如果不加息，将会出现第二轮通胀效应。",
+          "url": "https://wallstreetcn.com/livenews/3071386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "全岛停电、经济停摆！古巴遭美国逼入绝境，特朗普放言“接管”",
+          "url": "https://flash.jin10.com/detail/20260317122535189800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016789382670075625",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "澳洲联储声明：五名委员投票支持加息25个基点，四名委员投票支持维持利率不变。 2025年下半年通胀压力显著上升。 短期通胀预期已经上升，通胀率可能在一段时间内维持在目标水平上方。 通胀有长期高于目标水平的实质性风险。 将采取一切必要措施来实现价格和就业目标。 货币政策已做好充分准备，以应对事态发展。 中东冲突导致燃油价格大幅上涨，中东冲突构成重大风险，可能给全球和国内带来通胀。 经济和通胀前景存在重大不确定性。 需关注数据、不断变化的市场环境以及决策中的风险。",
+          "url": "https://wallstreetcn.com/livenews/3071361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
@@ -829,71 +994,8 @@
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775038",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时38分]"
-        },
-        {
-          "title": "经济学家：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
-          "url": "https://www.cls.cn/detail/2314398",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时38分]"
-        },
-        {
-          "title": "韩国外交部：美国国务卿鲁比奥表示，对于全球经济和稳定油价而言，各国之间的合作比以往任何时候都更加重要。",
-          "url": "https://flash.jin10.com/detail/20260317053041421800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时42分]"
-        },
-        {
-          "title": "人民日报：从“苹果税”下调看反垄断护航数字经济",
-          "url": "https://wallstreetcn.com/livenews/3071222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "商务部回应美以「未禁止进口强迫劳动产品」为由对包括中国在内 60 个经济体发起调查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016789382670075625",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金融",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，报375.97点。 在十个板块中，北欧金融板块涨幅最大。 Aker BP ASA收涨5.1%，在一众北欧个股里领跑。",
@@ -925,9 +1027,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "港股耀才证券金融早盘收涨65%，盘中涨幅一度达82.1%。蚂蚁集团周一表示，在满足所有条件后，预计将于本月底前完成以28.1亿港元收购耀才证券控股股权的交易。",
+          "url": "https://wallstreetcn.com/livenews/3071377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "家里没资源的学生适合学金融学吗?",
@@ -947,9 +1060,59 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苏宁创始人张近东 2387 亿债务落定，个人资产全部清零，这背后反映了哪些商业逻辑与风险？",
+          "url": "https://www.zhihu.com/question/2013287482582652557",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "澳洲联储主席布洛克：通胀风险偏上行。",
+          "url": "https://flash.jin10.com/detail/20260317123141603800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：委员会对中东局势带来的风险保持警惕，如果必须改变政策路径，我们会做出调整。",
+          "url": "https://wallstreetcn.com/livenews/3071388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "澳大利亚财长：全球风险巨大，我们已做好应对准备。",
+          "url": "https://flash.jin10.com/detail/20260317120347379800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
