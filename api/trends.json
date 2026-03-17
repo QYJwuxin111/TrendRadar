@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T14:08:28.588076+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-03-17T15:58:55.859404+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -32,6 +32,23 @@
           "time_info": "[05时15分 ~ 14时08分]"
         },
         {
+          "title": "锐评B站AI大赛热门作品",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            20,
+            21,
+            13,
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 15时58分]"
+        },
+        {
           "title": "315曝光AI大模型遭投毒操控",
           "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
           "source": "bilibili 热搜",
@@ -44,22 +61,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时11分 ~ 12时59分]"
-        },
-        {
-          "title": "锐评B站AI大赛热门作品",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            20,
-            21,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时38分]"
         },
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -82,8 +83,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时58分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -111,6 +112,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 05时50分]"
+        },
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 15时58分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -146,17 +161,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
+          "title": "华为面向AI推理场景发布新一代AI数据基础设施",
+          "url": "https://wallstreetcn.com/livenews/3071491",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 14时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "STMicoroElectronics与英伟达围绕物理AI构建合作伙伴关系。",
@@ -221,6 +234,18 @@
           "time_info": "[05时16分 ~ 05时50分]"
         },
         {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 15时58分]"
+        },
+        {
           "title": "AI 裁员",
           "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -280,6 +305,18 @@
           "time_info": "[05时50分 ~ 06时42分]"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 15时58分]"
+        },
+        {
           "title": "IBM宣布，与英伟达扩大在企业AI方面的合作。",
           "url": "https://wallstreetcn.com/livenews/3071161",
           "source": "华尔街见闻-快讯",
@@ -326,17 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 05时50分]"
-        },
-        {
-          "title": "AI对游戏版权有何影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时16分]"
         },
         {
           "title": "AI 替代岗位",
@@ -394,6 +420,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
           "url": "https://flash.jin10.com/detail/20260317043630290800",
           "source": "金十数据",
@@ -436,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "Kimi回应马斯克点赞AI论文：你的火箭造得不错",
+          "url": "https://wallstreetcn.com/livenews/3071485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "三星电子：将在2026年3月16日至19日于美国加州圣何塞举行的英伟达GTC 2026大会上展示全面的AI计算技术。核心产品将是全新第六代HBM4，目前已进入量产阶段，并专为英伟达Vera Rubin平台设计。",
@@ -515,17 +563,6 @@
           "time_info": "05时16分"
         },
         {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
           "title": "英伟达开启“太空计算”，将AI推向轨道",
           "url": "https://wallstreetcn.com/livenews/3071144",
           "source": "华尔街见闻-快讯",
@@ -570,6 +607,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "从夯到拉点评AI作品",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "铠侠（Kioxia）在单台服务器上实现48亿规模高维向量搜索数据库，利用GPU实现7.8倍索引构建加速。 结合英伟达NVIDIA cuVS库与铠侠开源的AiSAQ技术，在极低DRAM占用下完成1024维向量索引。",
           "url": "https://wallstreetcn.com/livenews/3071190",
           "source": "华尔街见闻-快讯",
@@ -606,7 +654,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "西梅汁通便真相:全是科技活",
@@ -615,11 +663,12 @@
           "ranks": [
             8,
             9,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时11分 ~ 14时08分]"
+          "appearance_count": 15,
+          "time_info": "[01时11分 ~ 15时58分]"
         },
         {
           "title": "【焦点复盘】科技成长赛道强势做多，沪指60日线失而复得，绿电概念现深幅回调",
@@ -640,7 +689,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -697,7 +746,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -730,7 +779,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -812,6 +861,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "扬电科技在互动平台表示，子公司四川汉扬智能科技有限公司相关算力业务尚处于初期探索阶段，与大模型公司之间只限于API接口的调用，未有其他合作。",
+          "url": "https://flash.jin10.com/detail/20260317153625463800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "恒生科技指数涨超2%，中资券商、新消费、新能源车企等概念涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260317100550381800",
           "source": "金十数据",
@@ -826,7 +886,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美方宣布对中国在内的60个经济体发起301调查，商务部回应",
@@ -862,6 +922,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时58分 ~ 14时08分]"
+        },
+        {
+          "title": "“Token第一股”迅策港股午后大涨超30%，此前，英伟达CEO黄仁勋提出“Token工厂经济学”，强调每瓦性能是商业变现的核心。",
+          "url": "https://wallstreetcn.com/livenews/3071493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "漫说年初中国经济亮点",
+          "url": "https://www.douyin.com/hot/2433215",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "韩国外交部：美国国务卿鲁比奥表示，对于全球经济和稳定油价而言，各国之间的合作比以往任何时候都更加重要。",
@@ -1085,7 +1167,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -1129,7 +1211,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
@@ -1137,7 +1219,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苏宁创始人张近东 2387 亿债务落定，个人资产全部清零，这背后反映了哪些商业逻辑与风险？",
@@ -1148,8 +1230,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 14时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时58分]"
         },
         {
           "title": "澳洲联储主席布洛克：通胀风险偏上行。",
@@ -1181,7 +1263,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -1192,9 +1274,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "金十图示：北京时间3月17日22:00将有欧美、美日等外汇期权大单到期，2个行权价10亿以上大单，敬请管理风险。",
+          "url": "https://flash.jin10.com/detail/20260317154340063800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "澳大利亚财长：全球风险巨大，我们已做好应对准备。",
