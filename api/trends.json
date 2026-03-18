@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T06:39:48.154294+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-03-19T07:37:56.131724+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
         },
         {
           "title": "美光科技美股盘后跌幅扩大至3.4%。",
@@ -102,6 +102,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3072726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "美光科技(MU.O)CEO：预计内存供应将在2026财年之后仍将持续紧张。",
           "url": "https://flash.jin10.com/detail/20260319045303563800",
           "source": "金十数据",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260319063817922800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美光科技(MU.O)：预计在2027财年大幅增加研发投资。",
@@ -215,7 +237,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -225,11 +247,12 @@
             1,
             2,
             3,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -254,8 +277,69 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 07时37分]"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -269,19 +353,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
-        },
-        {
           "title": "被黑产投毒的AI还可信吗",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
           "source": "bilibili 热搜",
@@ -293,38 +364,18 @@
           "time_info": "01时11分"
         },
         {
-          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
-          "url": "https://wallstreetcn.com/articles/3767836",
-          "source": "华尔街见闻",
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
+            21,
+            13,
+            12,
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
-        },
-        {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
-        },
-        {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 07时37分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -341,31 +392,6 @@
           "time_info": "[01时11分 ~ 05时42分]"
         },
         {
-          "title": "AI短片流金谷恩仇录",
-          "url": "https://www.douyin.com/hot/2435233",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 06时39分]"
-        },
-        {
-          "title": "易小星参加B站AI创作大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时39分]"
-        },
-        {
           "title": "美光科技：AI服务器需求继续表现强劲。",
           "url": "https://wallstreetcn.com/livenews/3072679",
           "source": "华尔街见闻-快讯",
@@ -378,13 +404,35 @@
           "time_info": "[04时49分 ~ 05时42分]"
         },
         {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
+          "url": "https://wallstreetcn.com/livenews/3072722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
           "url": "https://flash.jin10.com/detail/20260319053348018800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -406,7 +454,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         }
@@ -414,7 +462,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -423,11 +471,12 @@
           "ranks": [
             5,
             4,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
         },
         {
           "title": "林毅夫接受经济日报采访：我们有优势潜力实现经济发展目标",
@@ -438,8 +487,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
         },
         {
           "title": "标普：基本情境假设仍是，科威特庞大的财政资产将作为有效缓冲，抵御地区冲突带来的冲击。由于中东战争，预计科威特2026-2027年经济增长将放缓。",
@@ -487,6 +536,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "鲍威尔：美经济前景“极不确定” 联储内部倾向减少降息次数",
+          "url": "https://www.cls.cn/detail/2317441",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
           "title": "鲍威尔：短期通胀预期在最近数周上扬，大多数长期通胀预期与2%这一目标保持一致。 能源价格上涨，将推高整体通胀。 现在判断中东局势的全面经济影响还显得操之过急。 对能源市场的回应取决于通胀预期。 一系列冲击已经干扰到通胀进展。 如果没有看到通胀进展，就不会降息。 石油冲击在一定程度上体现在核心通胀中。 我们考虑的主要事情是，降低商品通胀。 关税问题造成（通胀）进展缓慢，这影响到通胀预期。",
           "url": "https://wallstreetcn.com/livenews/3072628",
           "source": "华尔街见闻-快讯",
@@ -496,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "经济大省锚定新质生产力与重大项目发力",
+          "url": "https://wallstreetcn.com/livenews/3072724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "美国贸易代表办公室：美国和墨西哥宣布在《美墨加协定》联合评估前推进双边讨论的下一步举措。美国贸易代表Jamieson Greer与墨西哥经济部长Marcelo Ebrard今日会面，正式启动在7月1日《美墨加协定》联合评估前的双边技术性讨论。",
@@ -523,7 +594,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "乌克兰主动“入局”美以伊冲突的背后算计：两个战场存在合二为一的风险？",
@@ -534,8 +605,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时11分 ~ 07时37分]"
         },
         {
           "title": "鲍威尔：不会说（维持价格稳定+实现充分就业这双重职责中）一个职责的风险大于另外一个。",
@@ -547,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "QDII产品溢价频现，基金公司加强风险提示",
+          "url": "https://wallstreetcn.com/livenews/3072737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "鲍威尔：利率处于限制性和非限制性的临界点附近。 认为维持轻度的利率限制性具有重要意义。 美联储处于艰难的形势中，需要平衡各种风险。",
@@ -630,8 +712,19 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "新西兰联储金融市场主管：计划对公开市场操作的方式进行调整。将开始提供每周全额配售操作，以向市场注入流动性。",
+          "url": "https://flash.jin10.com/detail/20260319070554520800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
         {
           "title": "联合利华与卡夫亨氏2月份讨论过合并前者食品品牌的事宜。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3072633",
@@ -653,6 +746,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
+          "url": "https://flash.jin10.com/detail/20260319065232382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     }
