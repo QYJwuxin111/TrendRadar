@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T19:42:16.090268+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-03-19T21:22:46.982424+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时11分 ~ 19时42分]"
+          "appearance_count": 17,
+          "time_info": "[01时11分 ~ 21时22分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -36,6 +36,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时11分 ~ 17时55分]"
+        },
+        {
+          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
+          "url": "https://www.cls.cn/detail/2317944",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时22分]"
         },
         {
           "title": "易小星参加B站AI创作大赛",
@@ -87,29 +99,6 @@
           "time_info": "[01时11分 ~ 07时37分]"
         },
         {
-          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
-          "url": "https://www.cls.cn/detail/2317944",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
-        },
-        {
-          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
-          "url": "https://www.zhihu.com/question/2017531069054869898",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
-        },
-        {
           "title": "AI味太冲,英伟达DLSS5翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
@@ -121,6 +110,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时11分 ~ 13时02分]"
+        },
+        {
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时22分]"
         },
         {
           "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
@@ -136,6 +137,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时50分 ~ 18时52分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17,
+            19,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 21时22分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -177,21 +194,6 @@
           "time_info": "[01时11分 ~ 07时37分]"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            13,
-            17,
-            19,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时07分 ~ 19时42分]"
-        },
-        {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
           "url": "https://www.cls.cn/detail/2316793",
           "source": "财联社热门",
@@ -216,6 +218,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时50分 ~ 15时08分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时22分]"
         },
         {
           "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
@@ -253,6 +267,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "OpenAI将收购初创公司Astral，进一步拓展其在编程领域的布局。",
+          "url": "https://wallstreetcn.com/livenews/3073358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "被黑产投毒的AI还可信吗",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E9%BB%91%E4%BA%A7%E6%8A%95%E6%AF%92%E7%9A%84AI%E8%BF%98%E5%8F%AF%E4%BF%A1%E5%90%97",
           "source": "bilibili 热搜",
@@ -264,16 +289,16 @@
           "time_info": "01时11分"
         },
         {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "AI艺人被指撞脸多位明星",
+          "url": "https://www.baidu.com/s?wd=AI%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            12
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时22分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -309,17 +334,6 @@
           "ranks": [
             16,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时42分]"
-        },
-        {
-          "title": "AI艺人被指撞脸多位明星",
-          "url": "https://www.baidu.com/s?wd=AI%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -402,6 +416,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "AI时代哪些专业更容易被替代",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%93%AA%E4%BA%9B%E4%B8%93%E4%B8%9A%E6%9B%B4%E5%AE%B9%E6%98%93%E8%A2%AB%E6%9B%BF%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "阿里巴巴：AI相关产品收入保持强劲势头 实现连续第十个季度的三位数同比增长",
@@ -490,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "Token调用量暴增，阿里云宣布AI算力和存储产品最高涨价34%",
@@ -594,7 +641,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "小米超强钢获得国家级科技一等奖",
@@ -840,7 +887,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -873,7 +920,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -887,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "中国保险行业协会：将逐步推进人形机器人保险示范条款 保险机构加快布局新型科技保险",
+          "url": "https://flash.jin10.com/detail/20260319204324646800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美光科技(MU.O)第二季度调整后毛利率为74.9%，市场预期为69.1%。",
@@ -914,7 +972,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "数读2025海洋经济公报",
@@ -932,11 +990,12 @@
           "url": "https://news.ifeng.com/c/8rckc3J46aj",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时22分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -1038,11 +1097,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时22分]"
         },
         {
           "title": "鲍威尔：美国经济增速稳固，通胀高于目标主要存在于商品领域。",
@@ -1122,6 +1182,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "佩尔亨特公司首席经济学卡勒姆·皮克林：尽管英国央行官员私下可能仍认为下一次利率调整更有可能是降息而非上加息，因为伊朗战争的时间表存在不确定性，但主张进行这样的调整是不明智的。",
+          "url": "https://flash.jin10.com/detail/20260319204656268800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "日本央行行长植田和男：日本经济有望继续温和增长。 全球市场波动，中东局势紧张导致原油价格大幅上涨。 需要关注中东局势的进一步发展。 由于油价上涨，预计通胀增速将面临上行压力。 预计基础通胀将在预测期后半段达到与价格目标一致的水平。 风险因素包括中东局势、油价、金融和外汇市场动态。 需要关注这些风险对日本经济和物价的影响。",
           "url": "https://wallstreetcn.com/livenews/3072986",
           "source": "华尔街见闻-快讯",
@@ -1153,6 +1224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "经济学家：英国央行应避免过快收紧政策",
+          "url": "https://flash.jin10.com/detail/20260319204444428800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "《区域全面经济伙伴关系协定》（RCEP）联委会第十二次会议及中国—新西兰自贸协定服务贸易负面清单第二轮线下谈判在惠灵顿举行",
@@ -1346,7 +1428,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1377,8 +1459,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时22分]"
         },
         {
           "title": "新西兰联储金融市场主管：计划对公开市场操作的方式进行调整。将开始提供每周全额配售操作，以向市场注入流动性。",
@@ -1488,7 +1570,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
@@ -1496,7 +1578,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
@@ -1507,11 +1589,12 @@
             13,
             10,
             16,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[10时50分 ~ 21时22分]"
         },
         {
           "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
@@ -1524,6 +1607,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时54分 ~ 17时55分]"
+        },
+        {
+          "title": "小米CEO：未来三年将在人工智能领域投入超过600亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3073352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
@@ -1547,11 +1641,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时22分]"
         }
       ]
     }
