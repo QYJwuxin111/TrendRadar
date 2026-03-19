@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T16:54:55.897378+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-03-19T17:55:56.040864+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时11分 ~ 16时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时11分 ~ 17时55分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -30,11 +30,12 @@
             6,
             5,
             24,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 16时54分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 17时55分]"
         },
         {
           "title": "易小星参加B站AI创作大赛",
@@ -47,11 +48,12 @@
             8,
             19,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时49分 ~ 16时54分]"
+          "appearance_count": 11,
+          "time_info": "[04时49分 ~ 17时55分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -122,6 +124,54 @@
           "time_info": "[01时11分 ~ 07时37分]"
         },
         {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 17时55分]"
+        },
+        {
+          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
+          "url": "https://www.cls.cn/detail/2317944",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
+        },
+        {
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
+        },
+        {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
           "url": "https://www.cls.cn/detail/2316793",
           "source": "财联社热门",
@@ -148,19 +198,6 @@
           "time_info": "[10时50分 ~ 15时08分]"
         },
         {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 16时54分]"
-        },
-        {
           "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
           "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
           "source": "澎湃新闻",
@@ -174,17 +211,6 @@
           "time_info": "[10时50分 ~ 16时54分]"
         },
         {
-          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
-          "url": "https://www.cls.cn/detail/2317944",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
           "url": "https://flash.jin10.com/detail/20260319005023876800",
           "source": "金十数据",
@@ -194,17 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
-          "url": "https://www.zhihu.com/question/2017531069054869898",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "被黑产投毒的AI还可信吗",
@@ -218,15 +233,17 @@
           "time_info": "01时11分"
         },
         {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
           "ranks": [
-            5
+            13,
+            17,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时55分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -243,18 +260,6 @@
           "time_info": "[01时11分 ~ 05时42分]"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 16时54分]"
-        },
-        {
           "title": "美光科技：AI服务器需求继续表现强劲。",
           "url": "https://wallstreetcn.com/livenews/3072679",
           "source": "华尔街见闻-快讯",
@@ -265,6 +270,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时42分]"
+        },
+        {
+          "title": "AI观众 AI粉丝 AI打分",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
         },
         {
           "title": "AI演员 假人感",
@@ -289,6 +306,17 @@
           "time_info": "[15时07分 ~ 15时08分]"
         },
         {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
+        },
+        {
           "title": "AI演员 粉丝",
           "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E7%B2%89%E4%B8%9D&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -311,15 +339,15 @@
           "time_info": "07时37分"
         },
         {
-          "title": "AI观众 AI粉丝 AI打分",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "阿里巴巴：AI相关产品收入保持强劲势头 实现连续第十个季度的三位数同比增长",
+          "url": "https://flash.jin10.com/detail/20260319174043329800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时55分"
         },
         {
           "title": "AI成家电标配，头部企业竞逐主动智能赛道",
@@ -355,15 +383,15 @@
           "time_info": "13时02分"
         },
         {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "阿里巴巴(09988.HK)：截至2025年12月31日止季度，AIDC亏损同比大幅收窄，主要由物流优化和投入效率共同提升所 致。速卖通Choice业务的单位经济效益环比持续改善。",
+          "url": "https://flash.jin10.com/detail/20260319173934476800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时55分"
         },
         {
           "title": "微短剧专业学生制作AI漫剧1分钟100元",
@@ -375,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "阿里巴巴 ：即时零售规模扩大 AIDC持续提升效率",
+          "url": "https://flash.jin10.com/detail/20260319173846470800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元",
@@ -399,6 +438,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "阿里巴巴(09988.HK)：新成立的悟空事业部进一步将AI战略延伸至企业层面，将前沿模型能力直接融入工作流程之中，把阿里巴巴在MaaS的领先优势，转化为客户可量化的运营效率提升。",
+          "url": "https://flash.jin10.com/detail/20260319173757683800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "XR研究院：千问AI眼镜开售首周线上份额超70%",
           "url": "https://wallstreetcn.com/livenews/3072898",
           "source": "华尔街见闻-快讯",
@@ -408,6 +458,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)吴泳铭：千问app与阿里消费生态各应用场景加速融合，显著带动新用户增长和交易活跃度。未来，依托大模型+云+芯片全栈AI能力，以及与阿里商业生态的全面融合，我们将继续在AI to B和to C方向齐发力。",
+          "url": "https://flash.jin10.com/detail/20260319173729011800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：阿里云收入同比加速增长36%；C端旗舰AI应用千问app实现真实世界大规模办事能力，千问C端应用月活跃用户数突破3亿。",
+          "url": "https://flash.jin10.com/detail/20260319173700429800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
@@ -427,7 +499,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -571,7 +643,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -755,7 +827,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -770,6 +842,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "数读2025海洋经济公报",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB2025%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%85%AC%E6%8A%A5%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
         },
         {
           "title": "林毅夫接受经济日报采访：我们有优势潜力实现经济发展目标",
@@ -795,15 +878,15 @@
           "time_info": "15时08分"
         },
         {
-          "title": "数读2025海洋经济公报",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB2025%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E5%85%AC%E6%8A%A5%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时55分"
         },
         {
           "title": "标普：基本情境假设仍是，科威特庞大的财政资产将作为有效缓冲，抵御地区冲突带来的冲击。由于中东战争，预计科威特2026-2027年经济增长将放缓。",
@@ -924,7 +1007,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -968,7 +1051,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -990,7 +1073,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         }
@@ -998,7 +1081,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "乌克兰主动“入局”美以伊冲突的背后算计：两个战场存在合二为一的风险？",
@@ -1114,6 +1197,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "工信部NVDB发布关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示",
+          "url": "https://wallstreetcn.com/livenews/3073140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "美联储主席鲍威尔：我们正处于困难的境地，我们必须平衡风险。",
           "url": "https://flash.jin10.com/detail/20260319024813974800",
           "source": "金十数据",
@@ -1150,8 +1244,20 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "央行：坚定维护股票、债券、外汇等金融市场平稳运行",
+          "url": "https://www.cls.cn/detail/2318079",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
+        },
         {
           "title": "新西兰联储金融市场主管：计划对公开市场操作的方式进行调整。将开始提供每周全额配售操作，以向市场注入流动性。",
           "url": "https://flash.jin10.com/detail/20260319070554520800",
@@ -1162,17 +1268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "央行：坚定维护股票、债券、外汇等金融市场平稳运行",
-          "url": "https://www.cls.cn/detail/2318079",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         },
         {
           "title": "香港金管局：将维持货币及金融稳定。",
@@ -1208,6 +1303,18 @@
           "time_info": "03时13分"
         },
         {
+          "title": "中国人寿：李伟董事任职资格获金融监管总局核准",
+          "url": "https://wallstreetcn.com/livenews/3073121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
+        },
+        {
           "title": "独家 | 警惕赠卡陷阱！特药卡、CAR‑T卡非保险产品，又一地金融监管局出手叫停",
           "url": "https://www.cls.cn/detail/2316589",
           "source": "财联社热门",
@@ -1230,15 +1337,15 @@
           "time_info": "10时51分"
         },
         {
-          "title": "中国人寿：李伟董事任职资格获金融监管总局核准",
-          "url": "https://wallstreetcn.com/livenews/3073121",
-          "source": "华尔街见闻-快讯",
+          "title": "央行：坚定维护金融市场平稳运行",
+          "url": "https://www.toutiao.com/trending/7617992201439559716/",
+          "source": "今日头条",
           "ranks": [
-            11
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时55分"
         },
         {
           "title": "A股多元金融板块逆势拉升，中粮资本冲击涨停，中油资本此前封板，爱建集团、瑞达期货、五矿资本等纷纷冲高。",
@@ -1264,11 +1371,24 @@
           "ranks": [
             14,
             13,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 16时54分]"
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 17时55分]"
+        },
+        {
+          "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
+          "url": "https://wallstreetcn.com/livenews/3073119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时55分]"
         },
         {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
@@ -1280,17 +1400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
-          "url": "https://wallstreetcn.com/livenews/3073119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         }
       ]
     }
