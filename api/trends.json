@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T15:09:30.439370+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-03-20T16:53:12.392253+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 10时41分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时41分 ~ 16时53分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -47,22 +59,12 @@
             11,
             12,
             15,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 15时09分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 15时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 16时53分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -79,6 +81,30 @@
           "time_info": "[10时41分 ~ 15时09分]"
         },
         {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时37分 ~ 16时53分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
           "url": "https://www.zhihu.com/question/2017676791603553270",
           "source": "知乎",
@@ -88,18 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
-        },
-        {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 15时09分]"
         },
         {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
@@ -198,6 +212,17 @@
           "time_info": "[06时37分 ~ 07时37分]"
         },
         {
+          "title": "曝AI短剧使用杨紫的脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.toutiao.com/trending/7618387888183836715/",
           "source": "今日头条",
@@ -208,6 +233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时37分]"
+        },
+        {
+          "title": "上万条大厂春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -264,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "阿里妈妈发布“AI万相”，多智能体协同重构经营新范式",
+          "url": "https://flash.jin10.com/detail/20260320162945026800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "Cursor将面向软件开发领域发布一款更加有效的AI模型Composer 2。",
@@ -338,7 +385,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -357,7 +404,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "瀚天天成电子科技（厦门）申请香港IPO。",
@@ -425,7 +472,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -529,6 +576,17 @@
           "time_info": "10时41分"
         },
         {
+          "title": "港股收盘：恒生科技指数跌2.48%，小米集团跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3073930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "A股算力租赁板块震荡回调，超讯通信封板跌停，大位科技跌超7%，东方国信、首都在线、常山北明、宏景科技等跟跌。",
           "url": "https://flash.jin10.com/detail/20260320101333106800",
           "source": "金十数据",
@@ -538,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "锦浪科技今日涨15.04%，3家机构专用席位净买入1.16亿元",
+          "url": "https://flash.jin10.com/detail/20260320162517402800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "源杰科技股价触及1000元，续创历史新高，成为A股历史上第8只千元股。",
@@ -598,8 +667,20 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "3月20日投资避雷针：2连板人气股提示风险 目前数据中心业务暂未提供算力",
+          "url": "https://www.cls.cn/detail/2318962",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时41分 ~ 16时53分]"
+        },
         {
           "title": "惠誉：伊朗战争对租赁融资构成有限风险。",
           "url": "https://flash.jin10.com/detail/20260320012850574800",
@@ -623,16 +704,16 @@
           "time_info": "13时58分"
         },
         {
-          "title": "3月20日投资避雷针：2连板人气股提示风险 目前数据中心业务暂未提供算力",
-          "url": "https://www.cls.cn/detail/2318962",
+          "title": "百亿又百亿！PCB厂商开启高端产能投资竞赛 多业内人士称暂无过剩风险",
+          "url": "https://www.cls.cn/detail/2319279",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 15时09分]"
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 16时53分]"
         },
         {
           "title": "杰富瑞集团（Jefferies LLC）分析师Christopher Lafemina在给客户的报告中写道：目前，投资者的注意力集中在利润率上，以及金价下跌和能源/消耗品成本上升这‘双重打击’的潜在风险。 在冲突长期化的情境下，更高的利率预期和更强的美元可能会对黄金施加更多压力。",
@@ -646,24 +727,13 @@
           "time_info": "06时37分"
         },
         {
-          "title": "百亿又百亿！PCB厂商开启高端产能投资竞赛 多业内人士称暂无过剩风险",
-          "url": "https://www.cls.cn/detail/2319279",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
           "title": "金十图示：北京时间3月20日22:00将有欧美、澳美、美加等外汇期权大单到期，4个行权价10亿以上大单，敬请管理风险。",
           "url": "https://flash.jin10.com/detail/20260320145958009800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -701,6 +771,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "南京化纤：2025年业绩预亏 股票或被实施退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260320162228292800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "摩根大通：我们同样认为，一旦（通胀）第二轮效应的风险消退，欧洲央行就有理由逆转紧缩政策。目前，我们仅预计2027年下半年会降息一次。",
           "url": "https://flash.jin10.com/detail/20260320131007251800",
           "source": "金十数据",
@@ -715,7 +796,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -754,6 +835,17 @@
           "time_info": "13时58分"
         },
         {
+          "title": "一文读懂：油价再涨多少会触发全球经济衰退“红线”？",
+          "url": "https://www.cls.cn/detail/2319356",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
           "title": "前美联储副主席克拉里达：冲突持续时间越长，对美国经济的负面影响就越大",
           "url": "https://wallstreetcn.com/livenews/3073455",
           "source": "华尔街见闻-快讯",
@@ -779,7 +871,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】深夜跳水，黄金、白银全线重挫；央行：坚定维护金融市场平稳运行",
@@ -815,6 +907,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "金融监管总局就《银行保险机构金融消费投诉处理管理办法（修订征求意见稿）》公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3073953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
