@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T12:43:48.996911+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-03-21T13:49:27.429527+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "宇树科技招股书公开 冲刺科创板具身智能第一股",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 13时49分]"
         },
         {
           "title": "字节跳动413亿元出售沐瞳科技",
@@ -63,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 13时49分]"
         },
         {
           "title": "上交所受理宇树科技IPO申请",
@@ -108,11 +108,23 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时49分]"
+        },
+        {
+          "title": "印度实力露馅,科技全线拉胯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352144&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%AE%9E%E5%8A%9B%E9%9C%B2%E9%A6%85%2C%E7%A7%91%E6%8A%80%E5%85%A8%E7%BA%BF%E6%8B%89%E8%83%AF",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时49分]"
         },
         {
           "title": "恒生指数主连夜盘收跌2.08%，报24725点。 恒生科技指数主连夜盘收跌2.14%，报4762点。",
@@ -151,15 +163,15 @@
           "time_info": "[07时37分 ~ 10时35分]"
         },
         {
-          "title": "印度实力露馅,科技全线拉胯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352144&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%AE%9E%E5%8A%9B%E9%9C%B2%E9%A6%85%2C%E7%A7%91%E6%8A%80%E5%85%A8%E7%BA%BF%E6%8B%89%E8%83%AF",
-          "source": "贴吧",
+          "title": "宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
+          "url": "https://wallstreetcn.com/articles/3768005",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时43分"
+          "time_info": "13时49分"
         },
         {
           "title": "宇树科技IPO获受理，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
@@ -220,7 +232,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -244,8 +256,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 13时49分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -257,8 +269,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 13时49分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -274,8 +286,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 12时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 13时49分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -361,6 +373,39 @@
           "time_info": "[01时41分 ~ 03时01分]"
         },
         {
+          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
+          "url": "https://www.zhihu.com/question/2017644548151616976",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时49分]"
+        },
+        {
+          "title": "我用AI盲猜周杰伦新歌",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E7%9B%B2%E7%8C%9C%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
+          "url": "https://www.zhihu.com/question/2017816580403246847",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
           "url": "https://flash.jin10.com/detail/20260321004049081800",
           "source": "金十数据",
@@ -370,17 +415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
-          "url": "https://www.zhihu.com/question/2017644548151616976",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
         },
         {
           "title": "沦为AI素材杨紫尊严何在",
@@ -411,26 +445,28 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "日本首相高市早苗：此次访美对进一步加强日美同盟和两国经济发展的具体途径进行了确认，意义深远。",
-          "url": "https://flash.jin10.com/detail/20260321114754365800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
           "title": "陕西实施一揽子贷款贴息政策支持实体经济",
           "url": "https://wallstreetcn.com/livenews/3074403",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时49分]"
+        },
+        {
+          "title": "日本首相高市早苗：此次访美对进一步加强日美同盟和两国经济发展的具体途径进行了确认，意义深远。",
+          "url": "https://flash.jin10.com/detail/20260321114754365800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时49分]"
         },
         {
           "title": "墨西哥媒体称墨方正考虑对中国投资进行“经济安全审查”，商务部回应",
@@ -442,8 +478,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时49分]"
+        },
+        {
+          "title": "陕西实施一揽子贷款贴息政策支持实体经济",
+          "url": "https://flash.jin10.com/detail/20260321111250704800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时49分]"
         },
         {
           "title": "罗马尼亚总统：我们决定加入英国、法国、德国、意大利、荷兰和日本关于确保霍尔木兹海峡航行自由的声明，这是国际法的基本原则。罗马尼亚参与这一行动的背景是，海峡关闭对全球能源市场和世界经济的严重影响。这些影响在罗马尼亚也有所体现，特别是在燃料价格方面。为此，我们准备参与国际社会的努力，以保持价格在民众可承受的水平。罗马尼亚明确决定不参与中东冲突，并与国际伙伴共同努力以实现降级。",
@@ -466,17 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "陕西实施一揽子贷款贴息政策支持实体经济",
-          "url": "https://flash.jin10.com/detail/20260321111250704800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
         },
         {
           "title": "西班牙出台50亿欧元措施，缓解中东局势对其经济社会影响",
@@ -631,47 +668,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Palantir人工智能系统获美国防部关键项目地位",
-          "url": "https://flash.jin10.com/detail/20260321113458071800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
-          "url": "https://flash.jin10.com/detail/20260321032318787800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
-          "url": "https://flash.jin10.com/detail/20260321032020972800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金融法草案向社会公开征求意见",
@@ -694,8 +692,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时49分]"
+        },
+        {
+          "title": "据英国金融时报：欧盟能源专员Jorgensen表示，欧盟各成员国应将其天然气储存设施的注气目标降至容量的80%，比欧盟官方目标低10个百分点。",
+          "url": "https://flash.jin10.com/detail/20260321130746448800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "周五（3月20日），降息赢家指数跌2.23%，报84.87点，本周累计下跌2.49%。 “特朗普关税输家”指数跌2.56%，本周累跌2.01%；“特朗普金融指数”涨0.35%，本周累涨1.46%。 散户抱团概念股指数/迷因股（meme stock）指数跌3.65%，本周累跌2.78%。",
@@ -709,6 +718,46 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 06时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Palantir人工智能系统获美国防部关键项目地位",
+          "url": "https://flash.jin10.com/detail/20260321113458071800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时49分]"
+        },
+        {
+          "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
+          "url": "https://flash.jin10.com/detail/20260321032318787800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
+          "url": "https://flash.jin10.com/detail/20260321032020972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         }
       ]
     }
