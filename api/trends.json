@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:43:04.991763+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-03-21T17:40:21.025358+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 17时40分]"
         },
         {
           "title": "“十五五”规划纲要提到哪些科技热词",
@@ -102,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 17时40分]"
         },
         {
           "title": "印度实力露馅,科技全线拉胯",
@@ -111,11 +111,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时43分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时43分 ~ 17时40分]"
         },
         {
           "title": "宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
@@ -123,11 +124,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 17时40分]"
         },
         {
           "title": "宇树科技IPO招股书解读",
@@ -158,11 +160,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时40分]"
         },
         {
           "title": "恒生指数主连夜盘收跌2.08%，报24725点。 恒生科技指数主连夜盘收跌2.14%，报4762点。",
@@ -282,11 +285,12 @@
             4,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时54分 ~ 16时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时54分 ~ 17时40分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -297,11 +301,12 @@
             9,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时54分 ~ 16时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时54分 ~ 17时40分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -398,11 +403,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时43分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时43分 ~ 17时40分]"
         },
         {
           "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
@@ -428,6 +434,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 03时01分]"
+        },
+        {
+          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
+          "url": "https://flash.jin10.com/detail/20260321155755350800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时40分]"
         },
         {
           "title": "抵制没用 AI演员已经杀进影视圈",
@@ -462,17 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
-          "url": "https://flash.jin10.com/detail/20260321155755350800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "沦为AI素材杨紫尊严何在",
@@ -512,8 +519,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时37分 ~ 16时43分]"
+          "appearance_count": 8,
+          "time_info": "[07时37分 ~ 17时40分]"
         },
         {
           "title": "陕西实施一揽子贷款贴息政策支持实体经济",
@@ -531,17 +538,6 @@
           "time_info": "[12时43分 ~ 16时43分]"
         },
         {
-          "title": "泰国工业经济办公室：伊朗战争将重创泰国六大产业",
-          "url": "https://flash.jin10.com/detail/20260321161651399800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
           "title": "日本首相高市早苗：此次访美对进一步加强日美同盟和两国经济发展的具体途径进行了确认，意义深远。",
           "url": "https://flash.jin10.com/detail/20260321114754365800",
           "source": "金十数据",
@@ -554,6 +550,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时43分 ~ 15时39分]"
+        },
+        {
+          "title": "泰国工业经济办公室：伊朗战争将重创泰国六大产业",
+          "url": "https://flash.jin10.com/detail/20260321161651399800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时40分]"
         },
         {
           "title": "陕西实施一揽子贷款贴息政策支持实体经济",
@@ -681,73 +689,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Palantir人工智能系统获美国防部关键项目地位",
-          "url": "https://flash.jin10.com/detail/20260321113458071800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时56分]"
-        },
-        {
-          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-          "url": "https://wallstreetcn.com/livenews/3074413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时43分]"
-        },
-        {
-          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-          "url": "https://flash.jin10.com/detail/20260321144016687800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时43分]"
-        },
-        {
-          "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
-          "url": "https://flash.jin10.com/detail/20260321032318787800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
-          "url": "https://flash.jin10.com/detail/20260321032020972800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "风险",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "网友贷款抄底 8 套老破小，靠房租还贷还有额外收入，「以租养贷」叙事当下还流行吗？存在哪些风险？",
@@ -759,6 +702,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "纳坦兹铀浓缩设施遭袭后，附近居民暂未面临风险。",
+          "url": "https://flash.jin10.com/detail/20260321170832191800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "欧洲央行管委兼德国央行行长Nagel：欧洲央行可以在必要时对通胀风险做出迅速回应。",
@@ -808,6 +762,72 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://wallstreetcn.com/livenews/3074413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时40分]"
+        },
+        {
+          "title": "Palantir人工智能系统获美国防部关键项目地位",
+          "url": "https://flash.jin10.com/detail/20260321113458071800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时56分]"
+        },
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://flash.jin10.com/detail/20260321144016687800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 16时43分]"
+        },
+        {
+          "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
+          "url": "https://flash.jin10.com/detail/20260321032318787800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
+          "url": "https://flash.jin10.com/detail/20260321032020972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金融",
       "match_count": 4,
       "titles": [
@@ -834,8 +854,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 17时40分]"
         },
         {
           "title": "据英国金融时报：欧盟能源专员Jorgensen表示，欧盟各成员国应将其天然气储存设施的注气目标降至容量的80%，比欧盟官方目标低10个百分点。",
