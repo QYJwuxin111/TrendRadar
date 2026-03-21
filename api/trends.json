@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T05:33:22.240095+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-03-22T06:34:03.340448+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             5,
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -29,8 +30,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -40,8 +41,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -51,8 +52,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
@@ -62,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
@@ -73,8 +74,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时34分]"
         }
       ]
     },
@@ -91,8 +92,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "铁路“票根经济”了解一下",
@@ -102,19 +103,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "伊朗的“不对称优势”：战争“每持续一天”，对经济的持续伤害“以月计”",
           "url": "https://wallstreetcn.com/articles/3768046",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "新城市志｜巨轮出坞，邮轮经济渐成消费新热点",
@@ -124,8 +126,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "美联储主席鲍威尔没有对经济或货币政策发表评论。",
@@ -156,8 +158,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "印度实力露馅,科技全线拉胯",
@@ -167,8 +169,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
@@ -197,8 +199,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         }
       ]
     }
