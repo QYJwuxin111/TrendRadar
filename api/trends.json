@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T19:31:41.205910+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-03-21T21:05:00.141891+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -29,11 +29,12 @@
             9,
             10,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时54分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时54分 ~ 21时05分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -45,11 +46,12 @@
             14,
             15,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时54分 ~ 19时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时54分 ~ 21时05分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -114,17 +116,6 @@
           "time_info": "[03时00分 ~ 12时43分]"
         },
         {
-          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
-          "url": "https://wallstreetcn.com/livenews/3074449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
           "title": "博主用AI手搓应用1个多月赚近九千",
           "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
           "source": "百度热搜",
@@ -165,6 +156,18 @@
           "time_info": "[12时43分 ~ 17时40分]"
         },
         {
+          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
+          "url": "https://wallstreetcn.com/livenews/3074449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 21时05分]"
+        },
+        {
           "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
           "url": "https://wallstreetcn.com/livenews/3074352",
           "source": "华尔街见闻-快讯",
@@ -176,6 +179,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时38分 ~ 07时37分]"
+        },
+        {
+          "title": "季冠霖发文抵制AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时05分]"
         },
         {
           "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
@@ -214,6 +229,17 @@
           "time_info": "[14时56分 ~ 15时39分]"
         },
         {
+          "title": "用AI拍出创意反诈大片",
+          "url": "https://www.douyin.com/hot/2437681",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        },
+        {
           "title": "我用AI盲猜周杰伦新歌",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E7%9B%B2%E7%8C%9C%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
           "source": "bilibili 热搜",
@@ -236,26 +262,48 @@
           "time_info": "00时55分"
         },
         {
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
+          "title": "华为肖德刚：AI技术与存储密不可分，加速迈入双向赋能新阶段",
+          "url": "https://flash.jin10.com/detail/20260321201526714800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://flash.jin10.com/detail/20260321183027923800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
         {
-          "title": "季冠霖发文抵制AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
           "ranks": [
-            24
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时31分"
+          "time_info": "21时05分"
         },
         {
           "title": "沦为AI素材杨紫尊严何在",
@@ -328,6 +376,17 @@
           "time_info": "[00时54分 ~ 10时35分]"
         },
         {
+          "title": "“十五五”规划纲要提到哪些科技热词",
+          "url": "https://www.toutiao.com/trending/7619605828634529290/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时42分 ~ 21时05分]"
+        },
+        {
           "title": "宇树科技IPO申请被受理",
           "url": "https://www.douyin.com/hot/2437665",
           "source": "抖音",
@@ -346,6 +405,33 @@
           "time_info": "[00时54分 ~ 15时39分]"
         },
         {
+          "title": "宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
+          "url": "https://wallstreetcn.com/articles/3768005",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时49分 ~ 21时05分]"
+        },
+        {
+          "title": "印度实力露馅,科技全线拉胯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352144&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%AE%9E%E5%8A%9B%E9%9C%B2%E9%A6%85%2C%E7%A7%91%E6%8A%80%E5%85%A8%E7%BA%BF%E6%8B%89%E8%83%AF",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 21时05分]"
+        },
+        {
           "title": "上交所受理宇树科技IPO申请",
           "url": "https://www.cls.cn/detail/2319663",
           "source": "财联社热门",
@@ -359,28 +445,19 @@
           "time_info": "[00时54分 ~ 07时37分]"
         },
         {
-          "title": "“十五五”规划纲要提到哪些科技热词",
-          "url": "https://www.toutiao.com/trending/7619605828634529290/",
-          "source": "今日头条",
+          "title": "梅姨落网背后的打拐黑科技",
+          "url": "https://www.douyin.com/hot/2438541",
+          "source": "抖音",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时42分 ~ 19时31分]"
-        },
-        {
-          "title": "印度实力露馅,科技全线拉胯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352144&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%AE%9E%E5%8A%9B%E9%9C%B2%E9%A6%85%2C%E7%A7%91%E6%8A%80%E5%85%A8%E7%BA%BF%E6%8B%89%E8%83%AF",
-          "source": "贴吧",
-          "ranks": [
+            16,
+            8,
+            9,
             6,
-            7,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[15时39分 ~ 21时05分]"
         },
         {
           "title": "宇树科技科创板IPO获受理：拟募资42.02亿元，去年营收17亿元",
@@ -395,33 +472,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时37分 ~ 17时40分]"
-        },
-        {
-          "title": "宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻",
-          "url": "https://wallstreetcn.com/articles/3768005",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时49分 ~ 19时31分]"
-        },
-        {
-          "title": "梅姨落网背后的打拐黑科技",
-          "url": "https://www.douyin.com/hot/2438541",
-          "source": "抖音",
-          "ranks": [
-            16,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时39分 ~ 19时31分]"
         },
         {
           "title": "宇树科技IPO招股书解读",
@@ -557,6 +607,17 @@
           "time_info": "[07时37分 ~ 19时31分]"
         },
         {
+          "title": "伊朗的“不对称优势”：战争“每持续一天”，对经济的持续伤害“以月计”",
+          "url": "https://wallstreetcn.com/articles/3768046",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时05分]"
+        },
+        {
           "title": "陕西实施一揽子贷款贴息政策支持实体经济",
           "url": "https://wallstreetcn.com/livenews/3074403",
           "source": "华尔街见闻-快讯",
@@ -570,17 +631,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时43分 ~ 16时43分]"
-        },
-        {
-          "title": "伊朗的“不对称优势”：战争“每持续一天”，对经济的持续伤害“以月计”",
-          "url": "https://wallstreetcn.com/articles/3768046",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "日本首相高市早苗：此次访美对进一步加强日美同盟和两国经济发展的具体途径进行了确认，意义深远。",
@@ -812,7 +862,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
@@ -911,8 +961,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时37分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[07时37分 ~ 21时05分]"
         },
         {
           "title": "据英国金融时报：欧盟能源专员Jorgensen表示，欧盟各成员国应将其天然气储存设施的注气目标降至容量的80%，比欧盟官方目标低10个百分点。",
@@ -953,7 +1003,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
