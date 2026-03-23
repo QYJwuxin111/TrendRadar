@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T03:05:16.885270+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-03-24T04:44:37.957231+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时44分]"
         },
         {
           "title": "Meta挖角AI初创公司Dreamer团队",
@@ -25,7 +25,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -76,36 +76,8 @@
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技春耕与春日经济共绘希望田野",
-          "url": "https://www.toutiao.com/trending/7620147172323049508/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时05分]"
-        },
-        {
-          "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
-          "url": "https://flash.jin10.com/detail/20260324024205486800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
@@ -115,8 +87,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时44分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，可选消费板块收涨2.46%，原材料、信息技术/科技、工业、能源、公用事业板块至多涨1.49%，电信板块涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3075411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "尚界 Z7 预售 22.98 万起，全系标配华为 896 线激光雷达等黑科技，你有哪些期待？",
@@ -126,8 +109,169 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时44分]"
+        },
+        {
+          "title": "标普500指数收涨74.52点，涨幅1.15%，报6581.00点。 道琼斯工业平均指数收涨631.00点，涨幅1.38%，报46208.47点。 纳斯达克综合指数（纳指）收涨299.149点，涨幅1.38%，报21946.76点。 纳斯达克100指数收涨290.436点，涨幅1.22%，报24188.59点。 费城半导体指数收涨1.34%，报7773.132点。 费城证交所KBW银行指数收涨1.37%，报151.51点。 道琼斯KBW地区银行指数收涨1.68%，报123.85点。 纳斯达克生物科技指数收涨0.56%，报5623.18点。",
+          "url": "https://wallstreetcn.com/livenews/3075407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.86%，报6800.66点。 热门中概股里，文远知行初步收涨9.2%，小鹏、蔚来涨7.1%，比亚迪、阿里巴巴涨超3%，理想涨2.5%，腾讯、小米、京东至多涨1.7%，阿特斯则跌7.7%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.69%，中概互联网指数ETF（KWEB）收涨0.74%，中国科技指数ETF（CQQQ）收涨0.09%。 德银嘉实沪深300指数ETF（ASHR）收跌0.65%，XtrackersHarvest中证50（ASHS）收跌1.87%。",
+          "url": "https://wallstreetcn.com/livenews/3075405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨2.76%，报25020点。 恒生科技指数主连夜盘收涨2.68%，报4828点。",
+          "url": "https://wallstreetcn.com/livenews/3075385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "经济",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技春耕与春日经济共绘希望田野",
+          "url": "https://www.toutiao.com/trending/7620147172323049508/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时44分]"
+        },
+        {
+          "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
+          "url": "https://flash.jin10.com/detail/20260324024205486800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "新西兰联储行长布雷曼：我们经济前景面临风险，如果这一前景发生变化，我们将调整货币政策立场，以实现我们的目标。",
+          "url": "https://flash.jin10.com/detail/20260324040500218800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "加沙与黎巴嫩冲突重创以色列经济 以色列GDP两年缩水8.6%",
+          "url": "https://flash.jin10.com/detail/20260324031506402800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周一（3月23日），降息赢家指数涨3.14%，报87.54点，跳空高开之后，整体高位震荡——呈现出平坦的M形走势。 “特朗普关税输家”指数涨2.99%，“特朗普金融指数”涨1.77%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.48%。",
+          "url": "https://wallstreetcn.com/livenews/3075412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "新西兰联储行长布雷曼：已做好充分准备，应对中东持续冲突对我们物价稳定和金融稳定使命带来的挑战。",
+          "url": "https://flash.jin10.com/detail/20260324040320177800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "雅诗兰黛接近达成一份协议，将与Puig合并。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3075398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "伊朗议长否认与美国谈判：美国散布假新闻是为了操纵金融和石油市场",
+          "url": "https://wallstreetcn.com/livenews/3075316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国旧金山联储主席戴利：错综复杂的冲突可能会“放大货币政策的权衡难题”。 鉴于所面临的风险，美联储需要保持政策灵活性。 如果给出太多的前瞻指引，将面临“确定性错觉”风险。 承认不确定性是最佳沟通（策略）。",
+          "url": "https://wallstreetcn.com/livenews/3075415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "央视曝光活鱼麻醉剂滥用乱象，为什么活鱼运输会用到「三无」丁香酚、工业酒精？吃到这样的鱼会有什么风险？",
+          "url": "https://www.zhihu.com/question/2019187102223397823",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 03时05分]"
         }
       ]
     },
@@ -144,42 +288,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗议长否认与美国谈判：美国散布假新闻是为了操纵金融和石油市场",
-          "url": "https://wallstreetcn.com/livenews/3075316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央视曝光活鱼麻醉剂滥用乱象，为什么活鱼运输会用到「三无」丁香酚、工业酒精？吃到这样的鱼会有什么风险？",
-          "url": "https://www.zhihu.com/question/2019187102223397823",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时44分]"
         }
       ]
     }
