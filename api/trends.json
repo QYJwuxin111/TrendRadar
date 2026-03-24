@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T06:40:27.873857+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-03-25T07:39:33.840269+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -27,19 +27,33 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
           "url": "https://www.toutiao.com/trending/7620795844911959606/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -49,20 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -73,11 +75,12 @@
             22,
             23,
             20,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -89,6 +92,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "卡塔尔液化天然气田受损后，Airgas化工产品公司限制氦气订单。",
+          "url": "https://flash.jin10.com/detail/20260325071304352800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "Meta任命新负责人领导公司向“AI原生”转型",
@@ -126,6 +140,28 @@
           "time_info": "[04时52分 ~ 05时45分]"
         },
         {
+          "title": "如何看待 Ai 音乐创作这个趋势？",
+          "url": "https://www.zhihu.com/question/1937236067859306429",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
+          "url": "https://wallstreetcn.com/articles/3768225",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260325041357943800",
           "source": "金十数据",
@@ -148,13 +184,24 @@
           "time_info": "03时14分"
         },
         {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
           "title": "据CNBC：OpenAI首席财务官弗里尔表示，我们将筹集超过1200亿美元。",
           "url": "https://flash.jin10.com/detail/20260325061455746800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -187,7 +234,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
         },
@@ -236,6 +283,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "Anduril、Palantir向美国总统特朗普提倡的“金穹”反导系统提供软件支持。 这两家公司是“金穹”软件团体的一部分。 谷歌公司参与投资的Aalyria Tech和Scale AI也对此有贡献。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3076237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
           "title": "OpenAI非营利部门任命领导层 2026年支出目标达10亿美元",
           "url": "https://flash.jin10.com/detail/20260325003012214800",
           "source": "金十数据",
@@ -247,15 +305,15 @@
           "time_info": "01时09分"
         },
         {
-          "title": "如何看待 Ai 音乐创作这个趋势？",
-          "url": "https://www.zhihu.com/question/1937236067859306429",
-          "source": "知乎",
+          "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
+          "url": "https://flash.jin10.com/detail/20260325064051929800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "07时39分"
         },
         {
           "title": "OpenAI：介绍OpenAI Foundation的最新情况。 预计未来一年将投资至少10亿美元。 将在未来一个月介绍相关情况。",
@@ -278,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
+          "url": "https://flash.jin10.com/detail/20260325063733355800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
         },
         {
           "title": "据华尔街日报 ：此举是OpenAI在今年第四季度可能进行首次公开募股之前，为重新聚焦于商业和编程业务而采取的众多措施之一。",
@@ -348,104 +417,8 @@
       ]
     },
     {
-      "keyword_group": "经济",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32815618",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
-        },
-        {
-          "title": "美联储理事巴尔将于十分钟后就经济前景和社区发展发表讲话。",
-          "url": "https://flash.jin10.com/detail/20260325062000001800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "随着全球风险加剧，新西兰联储首席经济学家呼吁进行改革",
-          "url": "https://wallstreetcn.com/livenews/3076229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "阿波罗首席经济学家Torsten Slok：预计高评级债券供应量将在2026年达到14万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3076137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "高盛：若伊朗战争冲击经济增长 美元强势将消退",
-          "url": "https://flash.jin10.com/detail/20260325023821847800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "科威特石油掌门人警告：伊朗正将世界经济扣为人质",
-          "url": "https://wallstreetcn.com/livenews/3076196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
-          "title": "高盛：由于能源价格上涨影响全球经济增长，考虑到全球GDP增长放缓，将2026年原铝需求预测从平衡表中下调60万吨。",
-          "url": "https://flash.jin10.com/detail/20260325054711298800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "高盛：若伊朗战争冲击经济增长，美元涨势将消退",
-          "url": "https://wallstreetcn.com/livenews/3076118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -468,19 +441,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "一级市场投融资火热，硬科技项目备受资本青睐",
           "url": "https://wallstreetcn.com/livenews/3076233",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "年内外资机构调研A股公司超900次，聚焦高端制造与科技创新两大核心赛道",
+          "url": "https://wallstreetcn.com/livenews/3076248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "07时39分"
         },
         {
           "title": "标普500指数初步收跌0.4%，电信板块跌2.5%，科技、房地产板块跌0.7%，原材料板块涨1.7%，能源板块涨1.8%。 纳斯达克100指数初步收跌0.8%，成分股中，Axon跌9.7%，Atlassian跌8.2%，Zscaler跌8%，Workday跌5.6%，财捷、Datadog、Applovin、CrowdStrike、TTWO至少跌4.7%，天然气公司Diamondback Energy则涨2.6%，ADI、应用材料、德州仪器、科磊至多涨3.4%，希捷科技涨5.2%领跑。 Salesforce初步收跌6.3%，领跌道指成分股，IBM、微软、迪士尼、亚马逊、波音至多跌3%，摩根大通涨0.7%，雪佛龙涨0.7%，联合健康、沃尔玛、耐克涨超1%，卡特彼勒涨2%，思科涨2.5%。 费城半导体指数涨1.1%，费城银行指数涨1.1%。",
@@ -540,6 +525,178 @@
       ]
     },
     {
+      "keyword_group": "经济",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "“第四大经济体”的增长故事：霍尔木兹海峡断航后，新德里小吃摊燃起木柴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815618",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
+        },
+        {
+          "title": "随着全球风险加剧，新西兰联储首席经济学家呼吁进行改革",
+          "url": "https://wallstreetcn.com/livenews/3076229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "美联储理事巴尔将于十分钟后就经济前景和社区发展发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260325062000001800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "阿波罗首席经济学家Torsten Slok：预计高评级债券供应量将在2026年达到14万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "高盛：若伊朗战争冲击经济增长 美元强势将消退",
+          "url": "https://flash.jin10.com/detail/20260325023821847800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "科威特石油掌门人警告：伊朗正将世界经济扣为人质",
+          "url": "https://wallstreetcn.com/livenews/3076196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "高盛：由于能源价格上涨影响全球经济增长，考虑到全球GDP增长放缓，将2026年原铝需求预测从平衡表中下调60万吨。",
+          "url": "https://flash.jin10.com/detail/20260325054711298800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "高盛：若伊朗战争冲击经济增长，美元涨势将消退",
+          "url": "https://wallstreetcn.com/livenews/3076118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中东海运不畅致部分外贸企业账期拉长，多家银行审慎应对相关业务风险",
+          "url": "https://www.cls.cn/detail/2323059",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 06时40分]"
+        },
+        {
+          "title": "美联储理事巴尔：中东冲突带来额外风险。",
+          "url": "https://flash.jin10.com/detail/20260325063108973800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "美联储古尔斯比：能源冲击可能对美联储的双重使命构成风险。",
+          "url": "https://flash.jin10.com/detail/20260325064647788800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美国运输安全管理局高级官员在书面证词中表示，资金僵局“正引发重大安全风险”。",
+          "url": "https://flash.jin10.com/detail/20260325054236519800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "美联储理事巴尔：鉴于高油价，战争增加了风险。",
+          "url": "https://flash.jin10.com/detail/20260325063126067800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "6类人高强度运动猝死风险高",
+          "url": "https://s.weibo.com/weibo?q=%236%E7%B1%BB%E4%BA%BA%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%BF%90%E5%8A%A8%E7%8C%9D%E6%AD%BB%E9%A3%8E%E9%99%A9%E9%AB%98%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金融",
       "match_count": 5,
       "titles": [
@@ -552,8 +709,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "解读美国金融市场波动背后",
@@ -566,8 +723,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
         },
         {
           "title": "金融监管总局：坚决拥护党中央决定",
@@ -577,11 +734,12 @@
             15,
             26,
             24,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 06时40分]"
+          "appearance_count": 6,
+          "time_info": "[03时14分 ~ 07时39分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：信用记录和政府定价必须让民众更加容易承担。",
@@ -604,46 +762,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中东海运不畅致部分外贸企业账期拉长，多家银行审慎应对相关业务风险",
-          "url": "https://www.cls.cn/detail/2323059",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
-        },
-        {
-          "title": "美联储理事巴尔：中东冲突带来额外风险。",
-          "url": "https://flash.jin10.com/detail/20260325063108973800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "美国运输安全管理局高级官员在书面证词中表示，资金僵局“正引发重大安全风险”。",
-          "url": "https://flash.jin10.com/detail/20260325054236519800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时40分"
         }
       ]
     },
@@ -677,8 +795,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 06时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 07时39分]"
         }
       ]
     },
@@ -708,11 +826,12 @@
           "url": "https://wallstreetcn.com/articles/3768255",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 06时40分]"
+          "appearance_count": 6,
+          "time_info": "[03时14分 ~ 07时39分]"
         }
       ]
     }
