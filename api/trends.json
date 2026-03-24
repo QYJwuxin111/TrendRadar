@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T15:59:15.599981+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-03-24T17:05:04.880061+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时42分 ~ 15时59分]"
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 17时05分]"
         },
         {
           "title": "普通人如何制作AI视频",
@@ -37,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 15时59分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 17时05分]"
         },
         {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
@@ -57,6 +59,18 @@
           "time_info": "[10时42分 ~ 14时10分]"
         },
         {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 17时05分]"
+        },
+        {
           "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
           "url": "https://flash.jin10.com/detail/20260324052732928800",
           "source": "金十数据",
@@ -69,15 +83,16 @@
           "time_info": "[05时45分 ~ 06时41分]"
         },
         {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
+          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
+          "url": "https://www.zhihu.com/question/2019761369977767358",
+          "source": "知乎",
           "ranks": [
-            7
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 17时05分]"
         },
         {
           "title": "在 AI 产业链上，利润最终会流向数据中心、大模型还是下游应用？",
@@ -91,24 +106,13 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
-          "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
-          "url": "https://www.zhihu.com/question/2019761369977767358",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
           "title": "泰凌微：公司不是Ray-Ban的供应商；公司部分产品可以用于AI眼镜，但目前尚未有相应的终端产品落地。",
           "url": "https://flash.jin10.com/detail/20260324154840776800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -207,7 +211,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -226,7 +230,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
@@ -428,12 +432,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "恒生指数收盘涨2.79%，恒生科技指数涨2.51%",
+          "url": "https://wallstreetcn.com/livenews/3075780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         }
       ]
     },
     {
       "keyword_group": "经济",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技春耕与春日经济共绘希望田野",
@@ -508,11 +523,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[14时10分 ~ 17时05分]"
         },
         {
           "title": "新西兰联储行长布雷曼：我们经济前景面临风险，如果这一前景发生变化，我们将调整货币政策立场，以实现我们的目标。",
@@ -579,7 +595,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -606,6 +622,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "博鳌亚洲论坛｜报告预计2026年亚洲经济增速达4.5%",
+          "url": "https://wallstreetcn.com/livenews/3075784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "国家数据局局长刘烈宏：将梯次培育数字产业集群，培育壮大数字经济创新型企业",
           "url": "https://wallstreetcn.com/livenews/3075613",
           "source": "华尔街见闻-快讯",
@@ -626,6 +653,160 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "解读美国金融市场波动背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 17时05分]"
+        },
+        {
+          "title": "金融监管总局副局长周亮被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%91%A8%E4%BA%AE%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 17时05分]"
+        },
+        {
+          "title": "国家金融监管总局副局长周亮被查",
+          "url": "https://www.toutiao.com/trending/7619964540578614847/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 17时05分]"
+        },
+        {
+          "title": "周一（3月23日），降息赢家指数涨3.14%，报87.54点，跳空高开之后，整体高位震荡——呈现出平坦的M形走势。 “特朗普关税输家”指数涨2.99%，“特朗普金融指数”涨1.77%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.48%。",
+          "url": "https://wallstreetcn.com/livenews/3075412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时45分]"
+        },
+        {
+          "title": "新西兰联储行长布雷曼：已做好充分准备，应对中东持续冲突对我们物价稳定和金融稳定使命带来的挑战。",
+          "url": "https://flash.jin10.com/detail/20260324040320177800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时45分]"
+        },
+        {
+          "title": "国家金融监督管理总局副局长周亮被查",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%87%91%E8%9E%8D%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E6%80%BB%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%91%A8%E4%BA%AE%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
+        },
+        {
+          "title": "国家金融监督管理总局党委委员、副局长周亮被查",
+          "url": "https://www.cls.cn/detail/2322856",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
+        },
+        {
+          "title": "A股大金融板块局部异动，哈投股份触及涨停，渤海租赁、中油资本、第一创业、西南证券、国盛证券等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3075584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "三井住友金融集团在为可能收购Jefferies做准备。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3075753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "国家金融监督管理总局党委委员、副局长周亮接受中央纪委国家监委审查调查。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3075749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "雅诗兰黛接近达成一份协议，将与Puig合并。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3075398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时44分"
+        },
+        {
+          "title": "伊朗议长否认与美国谈判：美国散布假新闻是为了操纵金融和石油市场",
+          "url": "https://wallstreetcn.com/livenews/3075316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "据英国金融时报： 三井住友金融集团已指派一个小型团队，确保在杰富瑞股价下跌带来机会时做好准备采取行动。",
+          "url": "https://flash.jin10.com/detail/20260324152552177800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         }
       ]
     },
@@ -764,136 +945,35 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 11,
+      "keyword_group": "openclaw",
+      "match_count": 2,
       "titles": [
         {
-          "title": "解读美国金融市场波动背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
-          "title": "金融监管总局副局长周亮被查",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%91%A8%E4%BA%AE%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
-          "title": "周一（3月23日），降息赢家指数涨3.14%，报87.54点，跳空高开之后，整体高位震荡——呈现出平坦的M形走势。 “特朗普关税输家”指数涨2.99%，“特朗普金融指数”涨1.77%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.48%。",
-          "url": "https://wallstreetcn.com/livenews/3075412",
+          "title": "OpenClaw升级现严重事故 激进重构致用户全线报错",
+          "url": "https://wallstreetcn.com/livenews/3075809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时45分]"
-        },
-        {
-          "title": "国家金融监管总局副局长周亮被查",
-          "url": "https://www.toutiao.com/trending/7619964540578614847/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时58分 ~ 15时59分]"
-        },
-        {
-          "title": "新西兰联储行长布雷曼：已做好充分准备，应对中东持续冲突对我们物价稳定和金融稳定使命带来的挑战。",
-          "url": "https://flash.jin10.com/detail/20260324040320177800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时45分]"
-        },
-        {
-          "title": "A股大金融板块局部异动，哈投股份触及涨停，渤海租赁、中油资本、第一创业、西南证券、国盛证券等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3075584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "三井住友金融集团在为可能收购Jefferies做准备。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3075753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时59分"
+          "time_info": "17时05分"
         },
         {
-          "title": "国家金融监督管理总局党委委员、副局长周亮接受中央纪委国家监委审查调查。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3075749",
+          "title": "网易有道龙虾获OpenClaw创始人点赞",
+          "url": "https://wallstreetcn.com/livenews/3075727",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
-          "title": "雅诗兰黛接近达成一份协议，将与Puig合并。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3075398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "伊朗议长否认与美国谈判：美国散布假新闻是为了操纵金融和石油市场",
-          "url": "https://wallstreetcn.com/livenews/3075316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据英国金融时报： 三井住友金融集团已指派一个小型团队，确保在杰富瑞股价下跌带来机会时做好准备采取行动。",
-          "url": "https://flash.jin10.com/detail/20260324152552177800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
@@ -914,8 +994,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 15时59分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 17时05分]"
         }
       ]
     },
@@ -933,23 +1013,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openclaw",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网易有道龙虾获OpenClaw创始人点赞",
-          "url": "https://wallstreetcn.com/livenews/3075727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
         }
       ]
     }
