@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T18:59:07.539372+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-03-24T19:52:57.708382+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -15,11 +15,12 @@
             2,
             3,
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时42分 ~ 18时59分]"
+          "appearance_count": 12,
+          "time_info": "[10时42分 ~ 19时52分]"
         },
         {
           "title": "国内首个！新型储能AI分析平台投用 新能源消纳电量提升30%",
@@ -54,11 +55,12 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[15时58分 ~ 19时52分]"
         },
         {
           "title": "如何看待阿里达摩院发布玄铁 C950 刷新 RISC-V 全球性能纪录，AI 时代 CPU 的重要性是否被低估了？",
@@ -66,11 +68,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[15时58分 ~ 19时52分]"
         },
         {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
@@ -98,6 +101,17 @@
           "time_info": "[05时45分 ~ 06时41分]"
         },
         {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 19时52分]"
+        },
+        {
           "title": "在 AI 产业链上，利润最终会流向数据中心、大模型还是下游应用？",
           "url": "https://www.zhihu.com/question/2016829250926243974",
           "source": "知乎",
@@ -114,17 +128,6 @@
           "source": "百度热搜",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 18时59分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -197,6 +200,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "西门子中国联手宇树、阿里云，打造工业AI生态系统",
+          "url": "https://wallstreetcn.com/livenews/3075929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
           "url": "https://wallstreetcn.com/livenews/3075367",
           "source": "华尔街见闻-快讯",
@@ -206,6 +220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司",
+          "url": "https://wallstreetcn.com/livenews/3075921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "内娱影视行业AI化是好是坏",
@@ -228,6 +253,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "卢伟冰：Xiaomi miclaw未来会拓展到电脑、手表端，反对将“AI手机”概念化",
+          "url": "https://wallstreetcn.com/livenews/3075911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "港股AI应用产业股持续拉升，MINIMAX-W(00100.HK)涨超12%，智谱(02513.HK)涨超10%，金山云(03896.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)涨超3%。",
@@ -255,7 +302,7 @@
     },
     {
       "keyword_group": "经济",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技春耕与春日经济共绘希望田野",
@@ -279,8 +326,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时10分 ~ 18时59分]"
+          "appearance_count": 8,
+          "time_info": "[14时10分 ~ 19时52分]"
         },
         {
           "title": "钟声：国防泡沫挽救不了日本经济",
@@ -425,7 +472,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -447,7 +494,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -461,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "巴西央行：国内经济活动正在放缓。",
+          "url": "https://flash.jin10.com/detail/20260324190828991800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "国家数据局局长刘烈宏：将梯次培育数字产业集群，培育壮大数字经济创新型企业",
@@ -488,7 +546,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
@@ -626,6 +684,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "星环科技：2025年净亏损2.45亿元 同比减亏",
+          "url": "https://flash.jin10.com/detail/20260324192034619800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "市场消息：中国高级驾驶辅助系统提供商卓驭科技拟赴港上市，但首席执行官称，时间不早于2027年。",
           "url": "https://flash.jin10.com/detail/20260324100833454800",
           "source": "金十数据",
@@ -646,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "源杰科技：2025年净利润1.91亿元，同比增加138.50%",
+          "url": "https://wallstreetcn.com/livenews/3075914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "A股光伏设备板块盘中走低，正泰电源跌超8%，海优新材、晶澳科技跌超7%，迈为股份、东方日升、阳光电源等跟跌。",
@@ -715,11 +795,25 @@
           "ranks": [
             5,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 18时59分]"
+          "appearance_count": 7,
+          "time_info": "[15时58分 ~ 19时52分]"
+        },
+        {
+          "title": "国家金融监督管理总局党委委员、副局长周亮被查",
+          "url": "https://www.cls.cn/detail/2322856",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 19时52分]"
         },
         {
           "title": "金融监管总局副局长周亮被查",
@@ -734,6 +828,19 @@
           "time_info": "[15时58分 ~ 17时05分]"
         },
         {
+          "title": "国家金融监督管理总局副局长周亮被查",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%87%91%E8%9E%8D%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E6%80%BB%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%91%A8%E4%BA%AE%E8%A2%AB%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 19时52分]"
+        },
+        {
           "title": "国家金融监管总局副局长周亮被查",
           "url": "https://www.toutiao.com/trending/7619964540578614847/",
           "source": "今日头条",
@@ -744,18 +851,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时58分 ~ 17时05分]"
-        },
-        {
-          "title": "国家金融监督管理总局党委委员、副局长周亮被查",
-          "url": "https://www.cls.cn/detail/2322856",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 18时59分]"
         },
         {
           "title": "周一（3月23日），降息赢家指数涨3.14%，报87.54点，跳空高开之后，整体高位震荡——呈现出平坦的M形走势。 “特朗普关税输家”指数涨2.99%，“特朗普金融指数”涨1.77%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.48%。",
@@ -770,16 +865,16 @@
           "time_info": "[04时44分 ~ 05时45分]"
         },
         {
-          "title": "国家金融监督管理总局副局长周亮被查",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E9%87%91%E8%9E%8D%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E6%80%BB%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E5%91%A8%E4%BA%AE%E8%A2%AB%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            25
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 18时59分]"
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 19时52分]"
         },
         {
           "title": "新西兰联储行长布雷曼：已做好充分准备，应对中东持续冲突对我们物价稳定和金融稳定使命带来的挑战。",
@@ -792,17 +887,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时45分]"
-        },
-        {
-          "title": "国家金融监督管理总局党委委员、副局长周亮接受审查调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32820006",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 18时59分]"
         },
         {
           "title": "A股大金融板块局部异动，哈投股份触及涨停，渤海租赁、中油资本、第一创业、西南证券、国盛证券等跟涨。",
@@ -866,7 +950,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -885,7 +969,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "7连板华电辽能：股票严重异常波动 存在短期大幅下跌的风险",
@@ -894,7 +978,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -1032,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "巴西央行：伊朗战争爆发后，通胀风险加剧。",
+          "url": "https://flash.jin10.com/detail/20260324190840229800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -1075,11 +1170,12 @@
             11,
             12,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时02分 ~ 18时59分]"
+          "appearance_count": 17,
+          "time_info": "[01时02分 ~ 19时52分]"
         }
       ]
     },
